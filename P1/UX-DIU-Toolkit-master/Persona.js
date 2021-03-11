@@ -82,36 +82,36 @@ angular.module("angular", [])
                 
                 
 				Id: 1,
-				Name: "Monica Suarez",
+				Name: "Onesífero de los Ríos",
 				Photo: "woman.png",
-				Quote: "A quotation that captures the essence of this person's personality",
-				Age: 17,
-				Occupation: "Searching for a cure for the Empress",
-				Family: "No parents, only family are the people who raised him.",
-				Location: "The Grassy Plains of Fantasia",
-				Character: "Strong, reliable and fearless.",
+				Quote: "Siempre hay que ir con el tiro perro y medio más adelante",
+				Age: 56,
+				Occupation: "Pescadero",
+				Family: "Lleva casado desde hace 31 años con su esposa Uxía. Tienen 4 hijos: 3 independizados de 30,27 y 24 años y una niña de 14",
+				Location: "Manzalvos (Ourense)",
+				Character: "Familiar, tozudo y trabajador",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 5 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["The goals this user hopes to achieve.", "A task that needs to be completed.", "A life goal to be reached.", "An experience to be felt."],
-				Frustrations: ["The frustrations this user would like to avoid.", "The obstacle that prevents the user from achieving their goals.", "The problems with the solutions already available.", "The product or service which does not currently exist."],
-				Bio: "The bio should be a short paragraph to describe the user journey. It should include some of their history leading up to a current use case. It may be helpful to incorporate information listed across the template and add pertinent details that may have been left out. Highlight factors of the user's personal and professional life that make this user an ideal customer of your product.",
+				Goals: ["Vivir sin preocupaciones en el pueblo junto con su familia", "Construir un caserío en el pueblo", "Ver a su hija graduarse en la universidad"],
+				Frustrations: ["Odia ver a su hija la mayor parte del tiempo pegada a una pantalla", "Llegar justo a fin de mes, por las facturas y compras de comida", "Le cuesta ponerse de acuerdo con Uxía para tomar decisiones "],
+				Bio: "Lleva toda la vida viviendo en Manzalvos. Trabaja desde los 14, principalmente como peón en construcción hasta los 27 cuando estableció su pescadería en el pueblo. A través de amigos de un pueblo cercano (Cádavos) conoció a Uxía. Tras 1 año de noviazgo se casaron y tuvieron a su primer hijo. Pocos años después tuvieron otros dos hijos y casi diez años después inesperadamente a la menor. Actualmente vive por y para su negocio con la ayuda de Uxía para sacar a la familia adelante ",
 				Tech: [
-					{ Name: "TIC/Internet", Value: 5 },
-					{ Name: "Mobile", Value: 3 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 5 }
+					{ Name: "TIC/Internet", Value: 1 },
+					{ Name: "Mobile", Value: 1 },
+					{ Name: "RRSS", Value: 0 },
+					{ Name: "Software", Value: 0 }
 					
 				], 
-                Contextos:   "The goals this user hopes to achieve." ,
+                Contextos:   "Tras varios años sin disfrutar de unas vaciones, busca organizar un viaje en familia para pasar tiempo con su hija pequeña y Uxía y evadirse de los problemas del negocio " ,
 				PreferredChannels: [
-					{ Name: "Publicidad Tradicional (Ads)", Value: 5 },
-					{ Name: "Online & Social Media", Value: 2 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 2 }
+					{ Name: "Publicidad Tradicional (Ads)", Value: 4 },
+					{ Name: "Online & Social Media", Value: 0 },
+					{ Name: "Recomendaciones & sugerencias", Value: 1 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 5 }
 				]
 			}
 		];
