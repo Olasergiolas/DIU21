@@ -34,7 +34,7 @@ angular.module("angular", [])
                 
 				Id: 0,
 				Name: "Isella Sorní",
-				Photo: "isella.png",
+				Photo: "isella2.jpg",
 				Quote: "Si es cierto lo de que los errores te hacen más fuerte, yo sería campeona de halterofilia",
 				Age: 33,
 				Occupation: "Periodista",
@@ -83,7 +83,7 @@ angular.module("angular", [])
                 
 				Id: 1,
 				Name: "Onesífero de los Ríos",
-				Photo: "woman.png",
+				Photo: "onesifero.jpg",
 				Quote: "Siempre hay que ir con el tiro perro y medio más adelante",
 				Age: 56,
 				Occupation: "Pescadero",
@@ -92,7 +92,7 @@ angular.module("angular", [])
 				Character: "Familiar, tozudo y trabajador",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 5 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
