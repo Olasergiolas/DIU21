@@ -39,34 +39,38 @@ angular.module("angular", [])
 				Age: 33,
 				Occupation: "Periodista",
 				Family: "Conoció a su pareja, Alberto, hace 6 meses. Su familia siempre está ahí para apoyarla en todo lo que necesita",
-				Location: "Belicena (Granada)",
+				Location: "Armilla (Granada)",
 				Character: "Le apasiona la cocina y aprovechar su tiempo",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 2 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 4 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				], 
-				Goals: ["Disfrutar del tiempo libre, viajar", "Cambiar a un trabajo más estable"],
-				Frustrations: ["le gusta la tecnología, pero siempre 'llama a un amigo' para resolver problemas",
-				 "Le gustaría tener más tiempo libre y leer más"],
-				Bio: "Es de Modril y vino a Granada para estudiar administración de empresas, pero no ha tenido grandes oportunidades de trabajo. LLeva 2 años contratado \
-				en la empresa actual. Aqui ha hecho buenos amigo en el trabajo y normalmente ser reunen para fiestas y a veces organizan viajes",
+				Goals: ["Descubrir la cocina de otras partes del mundo", "Seguir mejorando su situación laboral"],
+				Frustrations: ["Es muy inocente y le frustra que la gente se aproveche de ello",
+				 "Le gustaría poder dedicarle más tiempo a la cocina"],
+				Bio: "Nacida en Badalona, Isella terminó estudiando periodismo en lugar de su otro hobby de toda la \
+				vida, la cocina. Isella en parte se arrepiente de esta decisión ya que encontrar un buen puesto de \
+				trabajo no fue fácil. Tras enganchar varios puestos mediocres en distintas televisiones provinciales \
+				durante años, consiguió un puesto de trabajo bien pagado en el diario Ideal de Granada, por lo que se \
+				mudó a un piso en el centro de Armilla, donde conoció a su pareja, Alberto, a través de unos compañeros de trabajo.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 2 },
-					{ Name: "Movil", Value: 2 },
-					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 2 }
+					{ Name: "Movil", Value: 3 },
+					{ Name: "RRSS", Value: 4 },
+					{ Name: "Software", Value: 3 }
 					
 				], 
-                Contextos: "Harta de enganchar puestos de trabajo mediocres en televisiones provinciales de poco presupuesto, Isella consiguió\
-				un puesto de trabajo con unas condiciones infinitamente mejores en La Sexta. Después de un duro año de trabajo, quiere planear \
-				unas vacaciones ahora que se lo puede permitir",  
+                Contextos: "Fue estafada organizando un viaje en el pasado por una supuesta compañía de vuelos que resultó\
+				no existir. Desde entonces, siempre que intenta hacer una reserva online, se termina saliendo a mitad del \
+				proceso por cualquier cosa que aprecie que le chirríe. Aún así, Isella lo sigue intentando porque desea \
+				realizar un viaje con su pareja.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 5 },
 					{ Name: "Online & Social Media", Value: 3 },
-					{ Name: "Recomendaciones & sugerencias", Value: 2 },
-					{ Name: "Persona confianza (amigos, boca a boca)", Value: 1 }
+					{ Name: "Recomendaciones & sugerencias", Value: 1 },
+					{ Name: "Persona confianza (amigos, boca a boca)", Value: 4 }
 				]
 			},
 			{	
