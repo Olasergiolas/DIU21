@@ -19,7 +19,7 @@
 
 angular.module("angular", [])
 	.controller("controller", ["$scope", function($scope) { 
-		$scope.Grupo_ID ="DIU1.ABCDEF";
+		$scope.Grupo_ID ="DIU1.Aguacate";
         $scope.Curso ="2020/21";
         $scope.Github_ID ="https://github.com/mgea/UX-DIU-Toolkit";
         
@@ -34,54 +34,70 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 0,
-				Name: "Pedro",
-                Photo: "man.png",
+				Name: "Isella Sorní",
+                Photo: "isella2.jpg",
     
                 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "quiere preparar un viaje con sus amigos en Semana Santa",
-                touch1: "agenda",
+                goal1: "Ve en la tele un anuncio de Lambus y le anima a probarlo para organizar las \
+                vacaciones a Oslo que tenían previstas su pareja y él",
+                touch1: "Televisión",
                 feel1: "4",
-                con1: "ver cuantos días puede tener libres para organizar lugar de viaje ",
-                ima1: "cartoon-planning.png",
-				
+                con1: "Es la primera vez que oye hablar de una aplicación del estilo y no sabe hasta \
+                qué punto podría empeorar la experiencia de sus vacaciones si no funciona correctamente",
+				ima1: "cartoon-planning.png",
+
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Busca en internet ofertas para esas fechas",
-                touch2: "Movil",
-                feel2: "2",
-                con2: "hay demasiada información y pierde mucho tiempo, no hay precios 'baratos'",
-                ima2: "cartoon-PCangry.png",
+                goal2: "Va a la Play Store de Google a descargar la aplicación",
+                touch2: "Móvil (Play store)",
+                feel2: "4",
+                con2: "Mirando opiniones de la aplicación, ve la de un usuario descontento que ha tenido \
+                una mala experiencia con ella en el pasado lo cual le hace dudar sobre si terminar usando \
+                Lambus. Justo después, ve una respuesta del desarrollador comunicando que el problema que \
+                tuvo el usuario descontento ha sido solucionado, así que Isella se anima a descargar la \
+                aplicación porque además, la aplicación en general tiene muy buenas valoraciones",
+                ima2: "cartoon-phone-sitting.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Decide buscar un alojamiento rural  en plasencia, donde hay procesiones y parece que hará buen tiempo",
-                touch3: "móvil (el tiempo)",
+                goal3: "Abre la aplicación, se registra con su cuenta de google y es bienvenida con una \
+                pantalla que resume las distintas funciones de la aplicación",
+                touch3: "Móvil (App de Lambus)",
                 feel3: "3",
-                con3: "Está preocupado por el tiempo y el desplazamiento (coche y aparcamiento)",
+                con3: "La pantalla de bienvenida dice al final que Lambus no comparte datos del cliente \
+                con terceros pero no dice nada sobre como tratan ellos los datos",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los amigos le recomiendan una página para escoger alojamientos",
-                touch4: "ordenador",
-                feel4: "4",
-                con4: "Buscar opciones en el lugar que había seleccionado, viendo precios y distancias, tiene que ver si hay aparcamiento fácil",
-                ima4: "cartoon-PCtyping.png",
+                goal4: "Isella empieza a observar y navegar por la aplicación, su objetivo es crear un \
+                nuevo viaje para empezar a planificarlo",
+                touch4: "Móvil (App de Lambus)",
+                feel4: "2",
+                con4: "La aplicación no le ofrece un tour sobre qué hacen los botones y  las distintas \
+                pestañas de la aplicación, así que tras tocar distintos botones del menú, encuentra que \
+                para añadir un viaje hay que utilizar el botón "+" de la pantalla principal",
+                ima4: "cartoon-why.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Se encuentra 3 opciones que encajan en sus preferencias",
-                touch5: "móvil (whatsapp)",
-                feel5: "2",
-                con5: "Llama a sus amigos (whatsapp no responen) para ver cual es su preferencia, tienen que reservar rápido por los precios",
-                ima5: "cartoon-phoning.png",
+                goal5: "Empieza a rellenar información básica sobre el viaje como nombre, fecha, duración \
+                o acompañantes, con un procedimiento sencillo e intuitivo. Al terminar, puede añadir paradas \
+                al viaje, guardar documentos, notas, fotos o registrar gastos",
+                touch5: "Móvil (App de Lambus)",
+                feel5: "3",
+                con5: "No se fía de utilizar el almacén de fotos y documentos para guardar documentos con información \
+                personal como reservas e identificaciones o fotos de personales",
+                ima5: "cartoon-deciding.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consigue reservar, otro año se encarga otro!",
-                touch6: "ordenador",
-                feel6: "3",
-                con6: "algunos amigos no confirmaron por lo que tuvo que seleccionar reserva con posibilidad de cancelación",
+                goal6: "Termina de organizar el itinerario del viaje tras haber añadido los distintos puntos de \
+                parada en su fecha correspondiente",
+                touch6: "Móvil (App de Lambus)",
+                feel6: "4",
+                con6: "La aplicación no permitía especificar hora para las distintas paradas, solo la fecha, así \
+                que las ha añadido en las notas sobre la parada",
                 ima6: "cartoon-resting.png",
                 
 			},
