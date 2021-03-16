@@ -108,55 +108,61 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Onesífero de los Ríos",
+                Photo: "onesifero.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
-                touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
-                ima1: "cartoon-going.png",
+                goal1: "Uxía (su esposa) le propone hacer un viaje familiar a Ferrol(La Coruña) con su hija pequeña para descansar del trabajo \
+                 y muestra ilusión por ello",
+                touch1: "Persona (su esposa)",
+                feel1: "4",
+                con1: "No sabe por dónde empezar a planificar",
+                ima1: "cartoon-speaking.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
-                ima2: "cartoon-teamthinking.png",
+                goal2: "Tras preguntarle a su hija, ésta decide buscar un gestor de planificación a través de Google y encuentran un app \
+                con muy buena puntuación llamada Lambus, la cual se descargan del PlayStore",
+                touch2: "Persona (su hija)",
+                feel2: "2",
+                con2: "Se encuentra confuso y perdido a cerca de lo que es un gestor de planificación y cree que puede ser de poca utilidad ",
+                ima2: "cartoon-looking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
-                feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
-                ima3: "cartoon-phoningangry.png",
+                goal3: "Lee la información de las distintas funcionalidades que le aporta la aplicación. \
+                Posteriormente se registra, pero no sabe continuar para la planificación de su viaje",
+                touch3: "Móvil (App de Lambus)",
+                feel3: "3",
+                con3: "Se vuelve a encontrar bastante perdido con las funcionalidades que ofrece la app, \
+                no le es muy intuitiva",
+                ima3: "cartoon-why.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
-                touch4: "Móvil (webapp)",
+                goal4: "Decide ir probando opciones y ver qué función tienen cada una de ellas en la barra de navegación ",
+                touch4: "Móvil (App de Lambus)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
-                ima4: "cartoon-phone-street.png",
+                con4: "Siente que esto es una pérdida de tiempo y le frustra no entender el funcionamiento de la aplicación",
+                ima4: "cartoon-PCangry.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Reserva a traves de la aplicación ",
-                touch5: "Móvil (webapp)",
+                goal5: "Tras descubrir cómo crear un viaje Onesífero crea uno con destino a Ferrol con el presupuesto acordado con Uxía y le indica \
+                a la aplicación qué tipo de lugares están interesados en visitar ",
+                touch5: "Móvil (App de Lambus)",
                 feel5: "3",
-                con5: "Le pide muchos datos y le resulta incómodo completar formulario",
-                ima5: "cartoon-phone-sitting.png",
+                con5: "Le fastidia no haber encontrado una opción para buscar hoteles u hostales",
+                ima5: "cartoon-PChard.png",
 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Consiguie reservar para vacaciones pero no era lo que tenía en mente",
-                touch6: "Ordenador (reserva OK)",
-                feel6: "2",
-                con6: "Tendrá que buscar más información del lugar para ver que actividades ofrece y donde aparacar!",
-                ima6: "cartoon-PChard.png",
+                goal6: "Estructura el viaje con Uxía y su hija indicando las paradas que realizará y en qué fechas cada una",
+                touch6: "Móvil (App de Lambus)",
+                feel6: "3",
+                con6: "Piensa que podría haber utilizado otro medio más tradicional (como una agencia de viajes) \
+                que le hubiera facilitado mucho más la planificación del viaje  ",
+                ima6: "cartoon-KO.png",
                 
                 
                 
