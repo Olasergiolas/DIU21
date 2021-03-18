@@ -114,12 +114,13 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Vivir sin preocupaciones en el pueblo junto con su familia", "Construir un caserío en el pueblo", "Ver a su hija graduarse en la universidad"],
-				Frustrations: ["Odia ver a su hija la mayor parte del tiempo pegada a una pantalla", "Llegar justo a fin de mes, por las facturas y compras de comida", "Le cuesta ponerse de acuerdo con Uxía para tomar decisiones "],
-				Bio: "Lleva toda la vida viviendo en Manzalvos. Trabaja desde los 14, principalmente como peón en construcción hasta los 27 cuando estableció su pescadería en el pueblo. A través de amigos de un pueblo cercano (Cádavos) conoció a Uxía. Tras 1 año de noviazgo se casaron y tuvieron a su primer hijo. Pocos años después tuvieron otros dos hijos y casi diez años después inesperadamente a la menor. Actualmente vive por y para su negocio con la ayuda de Uxía para sacar a la familia adelante ",
+				Goals: ["Ampliar el espacio de la pescadería", "Construir un caserío en el pueblo", "Ver a su hija graduarse en la universidad"],
+				Frustrations: ["No le gusta ver a su hija la mayor parte del tiempo pegada a una pantalla", "Llegar justo a fin de mes, por las facturas y compras de comida", "Está cansado de que algunos clientes le regateen el precio del pescado ", "Odia que su familia deje las puertas de las habitaciones abiertas escapándose calefacción"],
+				Bio: "Lleva toda la vida viviendo en Manzalvos y es hijo único de dos pescaderos. Nunca fue un estudiante sobresaliente, pues mostró cierto rechazo a los estudios, sobretodo porque sufría agresiones regularmente por parte del profesorado al no saberse el temario. Desde los 8 años descubrió el mundo de la pintura gracias a un profesor, aunque la tuvo que apartar a los 16 tras acabar BUP para ayudar a sus padres con la pescadería, pues no podían permitirse contratar personal por la dura época económica que estaba pasando España. Aprendió a estar detrás de un mostrador y a desenvolverse con los clientes, haciéndose aficionado a los cotilleos del pueblo. Conoció a su actual esposa (Uxía) a través de unos amigos en común en la visita a una exposición de arte en Ourense a los 24 años. Tras un año de noviazgo se casaron, compraron una humilde casa en Manzalvos y al siguiente tuvieron a su primer hijo. Más tarde tuvieron a sus otros dos hijos y casi diez años después a la menor, a quien considera la niña de sus ojos. Actualmente tras la jubilación de sus padres hace casi 20 años, está a cargo de la pescadería acarreando las deudas que generaron durante la crisis de 2008 debido a préstamos a bancos, contando con la ayuda de su esposa en el negocio. En sus ratos libres continúa con la pintura, la cual ha inculcado a su hija pequeña. ",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Mobile", Value: 1 },
+					
 					{ Name: "RRSS", Value: 0 },
 					{ Name: "Software", Value: 0 }
 					
