@@ -32,12 +32,15 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> De entre todas las aplicaciones observadas, cuatro han sido seleccionadas para la realización del análisis competitivo: Lambus, Tripit, Sygic Travel y Polarsteps. De entre estas cinco, hemos elegido Lambus por sus buenas reviews en Google Play Store, además de su cuidada presentación en comparación con sus competidores seleccionados.
+
+Para acceder al análisis competitivo al completo pulse [aquí](P1/README.md/#1-an%C3%A1lisis-de-competencia).
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Para las personas a utilizar, hemos querido representar dos perfiles muy diferentes: [Isella](P1/#2-personas) y [Onesífero de los Ríos](P1/#2-personas).
+>>> Hemos elegido a estas personas porque ambas presentan retos que tendremos que tener en cuenta.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
