@@ -95,7 +95,7 @@ angular.module("angular", [])
                 goal6: "Termina de organizar el itinerario del viaje tras haber añadido los distintos puntos de \
                 parada en su fecha correspondiente",
                 touch6: "Móvil (App de Lambus)",
-                feel6: "4",
+                feel6: "3",
                 con6: "La aplicación no permitía especificar hora para las distintas paradas, solo la fecha, así \
                 que las ha añadido en las notas sobre la parada",
                 ima6: "cartoon-resting.png",
