@@ -19,7 +19,11 @@ Para la segunda persona hemos creado a Onesífero de los Ríos, un hombre humild
 
 
 ## 3. Journey Maps
-Hemos querido representar el uso de la aplicación por parte de las dos personas diseñadas teniendo en cuenta el reto que cada una presenta.
+Isella quiere tener el control total sobre el viaje que va a planificar pero, durante el uso de la aplicación, termina algo decepcionada debido a que Lambus no ofrece algo que ella considera tan básico como poder definir unas horas concretas para las distintas paradas de su viaje. Además, le ha resultado algo difícil navegar por los distintos menús de la app.
+<img src="IsellaJourneyMap.png">
+<br>
+Onesífero desde el principio se muestra dubitativo ante el uso de una aplicación móvil para la planificación de su viaje, pero acaba cediendo ante su hija quien considera que la mejor alternativa es la utilización de una aplicación móvil con buena puntuación en Internet, pero ante su posterior decepción tras sentirse perdido en todo el proceso de la planificación del viaje concluye que hubiera sido mejor utilizar un medio más tradicional como una agencia de viajes.
+<img src="OnesiferoJourneyMap.png">
 
 ## 4. Revisión de Usabilidad
 Estamos ante una aplicación visualmente atractiva, pero con problemas en la organización del contenido y carencias en la orientación al usuario.
