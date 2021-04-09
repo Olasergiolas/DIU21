@@ -1,6 +1,4 @@
-# DIU - Practica1, entregables
-
-## P1 DIU1_Aguacate:
+# DIU1_Aguacate - Practica1, entregables.
 
 ## 1. Análisis de Competencia
 - [Lambus](https://www.lambus.com): Se trata de una aplicación móvil para la organización de viajes que no dispone de versión de escritorio. En el análisis de la competencia ha demostrado disponer de las mismas o más funcionalidades que el resto de sus competidores aún no disponiendo de algunas comodidades que otros sí ofrecen como información COVID del destino. Se anuncian en su página web como la “Plataforma de viajes todo-en-uno”.
