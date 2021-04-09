@@ -37,3 +37,13 @@ Lambus destaca positivamente por los siguientes aspectos:
 - Se utilizan los campos de entrada apropiados (como calendarios, teclados numéricos...) para la introducción de la información en los formularios
 - El texto es fácilmente legible y presenta un buen contraste.
 - La aplicación se adapta a distintas configuraciones de smartphone como distintas resoluciones, o versiones de SO.
+
+A pesar de estas caracterísitcas Lambus presenta algunas desventajas:
+- No ofrece tutoriales/tours de la aplicación a aquellos usuarios con poco nivel de experiencia en aplicaciones móviles.
+- No indica al usuario en qué parte de la aplicación se encuentra.
+- Dispone de opción de búsqueda sólo en algunas de sus funcionalidades.
+- No es posible hacer modificaciones o volver atrás sobre cambios que haya realizado el usuario, ni tampoco informa del éxito o error de los cambios realizados.
+- No dispone de campos opcionales en el proceso de creación del viaje.
+- No se informa de los errores de la aplicación y cuando se informa no se explica el por qué del error.
+- No ofrece enlaces externos a la aplicación.
+- Para acceder a la ayuda ofrecida por la aplicación, el progreso de un trabajo del usuario es borrado por completo, es decir, no lo puede reanudar.
