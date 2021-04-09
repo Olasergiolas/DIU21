@@ -39,14 +39,17 @@ Para acceder al análisis competitivo al completo pulse [aquí](P1/README.md/#1-
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Para las personas a utilizar, hemos querido representar dos perfiles muy diferentes: [Isella](P1/#2-personas) y [Onesífero de los Ríos](P1/#2-personas).
->>> Hemos elegido a estas personas porque ambas presentan retos que tendremos que tener en cuenta.
+>>> Para las personas a utilizar, hemos querido representar dos perfiles muy diferentes: [Isella](P1/README.md/#2-personas) y [Onesífero de los Ríos](P1/README.md/#2-personas).
+>>> Hemos elegido a estas personas porque ambas presentan retos interesantes que muestran las dificultades a las que se
+>>> podría enfrentar un usuario real.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+>>> Hemos querido representar el uso de la aplicación por parte de las dos personas diseñadas teniendo en cuenta el reto que cada una presenta.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-journey-maps).
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -55,6 +58,12 @@ Para acceder al análisis competitivo al completo pulse [aquí](P1/README.md/#1-
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>> - Enlace al documento [aquí](P1/Usability-review-Lambus.pdf).
+ >>> - Valoración final: 65
+ >>> - Comentario sobre la valoración: En general, Lambus ha demostrado ser una app que mayormente cumple con la 
+ >>> funcionalidad básica que puede esperar un viajero pero que se ve lastrada por el uso de unos menús poco 
+ >>> señalizados por los que es fácil perderse.
 
 
 ## Paso 2. UX Design  
