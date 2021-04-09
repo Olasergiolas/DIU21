@@ -60,15 +60,6 @@ Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-jou
  >>> funcionalidad básica que puede esperar un viajero pero que se ve lastrada por el uso de unos menús poco 
  >>> señalizados por los que es fácil perderse.
 
-Lambus destaca positivamente por los siguientes aspectos:
-- Colocar a la vista y fácilmente accesibles los accesos a los menús de tareas de uso frecuente desde el menú principal de la app.
-- La funcionalidad y características que aporta la aplicación satisfacen en su mayoría las necesidades de un viajero.
-- La página de inicio es clara y no está sobrecargada de elementos.
-- La aplicación es fácil de conseguir a través de la Play Store o la App Store.
-- Se utilizan los campos de entrada apropiados (como calendarios, teclados numéricos...) para la introducción de la información en los formularios
-- El texto es fácilmente legible y presenta un buen contraste.
-- La aplicación se adapta a distintas configuraciones de smartphone como distintas resoluciones, o versiones de SO.
-
 ## Paso 2. UX Design  
 
 
