@@ -120,26 +120,30 @@ angular.module("angular", [])
                 ima1: "cartoon-speaking.png",
                 
                 /*** PASO #2: DECICION ***/ 
-                goal2: "Tras preguntarle a su hija, ésta decide buscar un gestor de planificación a través de Google y encuentran un app \
-                con muy buena puntuación llamada Lambus, la cual se descargan del PlayStore",
-                touch2: "Persona (su hija)",
+                goal2: "Le pregunta a su hija y ésta le aconseja buscar un gestor de planificación a través de Google. Aunque duda un poco le hace caso y\
+                con su ayuda encuentran una página web de una aplicación llamada Lambus. Tras leer las funcionalidades, le surgen más dudas acerca de la \
+                utilidad de un gestor de planificación y cree que una agencia de viajes sería el método más fácil y rápido. No obstante acaba haciendo caso \
+                a su hija a regañadientes.",
+                touch2: "Ordenador",
                 feel2: "2",
                 con2: "Se encuentra confuso y perdido a cerca de lo que es un gestor de planificación y cree que puede ser de poca utilidad ",
                 ima2: "cartoon-looking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Lee la información de las distintas funcionalidades que le aporta la aplicación. \
-                Posteriormente se registra, pero no sabe continuar para la planificación de su viaje",
+                goal3: "Procede a realizar el proceso de registro con su email, tras esto se le muestra la pantalla de inicio de la aplicación",
                 touch3: "Móvil (App de Lambus)",
-                feel3: "3",
-                con3: "Se vuelve a encontrar bastante perdido con las funcionalidades que ofrece la app, \
+                feel3: "2",
+                con3: " Debido a que la aplicación no ofrece un tour por\
+                sus funcionalidades se vuelve a encontrar bastante perdido, \
                 no le es muy intuitiva",
                 ima3: "cartoon-why.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Decide ir probando opciones y ver qué función tienen cada una de ellas en la barra de navegación ",
+                goal4: "Decide probar el icono de la brújula que le da la opción de escoger distintos lugares que visitar. Escribe Ferrol, pero\
+                no aparecen resultados. Tras esto, encuentra un mapamundi en el que se le indica que ahí se encuentran las paradas de su viaje,\
+                pero le tiene que volver a pedir ayuda a su hija pues en ningún sitio se le indica dónde puede añadir como destino Ferrol. ",
                 touch4: "Móvil (App de Lambus)",
                 feel4: "2",
                 con4: "Siente que esto es una pérdida de tiempo y le frustra no entender el funcionamiento de la aplicación",
@@ -147,7 +151,7 @@ angular.module("angular", [])
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Tras descubrir cómo crear un viaje Onesífero crea uno con destino a Ferrol con el presupuesto acordado con Uxía y le indica \
+                goal5: "Tras descubrir cómo crear un viaje, Onesífero junto a su hija crean uno con destino a Ferrol con el presupuesto acordado con Uxía y le indican \
                 a la aplicación qué tipo de lugares están interesados en visitar ",
                 touch5: "Móvil (App de Lambus)",
                 feel5: "3",
