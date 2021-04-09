@@ -54,6 +54,7 @@ Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-jou
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
+>>> - Enlace a la [sección](P1/README.md/#4-revisión-de-usabilidad).
 >>> - Enlace al documento [aquí](P1/Usability-review-Lambus.pdf).
  >>> - Valoración final: 65
  >>> - Comentario sobre la valoración: En general, Lambus ha demostrado ser una app que mayormente cumple con la 
