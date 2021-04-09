@@ -53,11 +53,6 @@ Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-jou
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
 >>> - Enlace al documento [aquí](P1/Usability-review-Lambus.pdf).
  >>> - Valoración final: 65
