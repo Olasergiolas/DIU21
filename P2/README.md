@@ -62,7 +62,7 @@ La aplicación implementará las siguientes funcionalidades:
 
 | Término                | Icono | Significado                                                                                                                                                         |
 |------------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Iniciar Sesión         |       | Se inicia sesión en la aplicación.                                                                                                                                  |
+| Iniciar Sesión         |![icono](icono/iniciar_sesion.png)       | Se inicia sesión en la aplicación.                                                                                                                                  |
 | Registrarse            |       | Se accede a la opción de registro en la aplicación.                                                                                                                 |
 | Inicio                 |       | Se accede a la página de inicio de la aplicación, donde se muestran el listado de viajes del usuario.                                                               |
 | Buscar                 |       | Se accede a la opción de búsqueda de la aplicación para buscar hoteles y lugares que visitar además de apartados de la aplicación.                                  |
