@@ -5,11 +5,12 @@ Grupo: DIU1_Aguacate.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Lolis
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Lolis se trata de una aplicación móvil que busca unificar todas las herramientas que un viajero puede necesitar para organizar su viaje, desde planificación
+>>> de rutas, hasta reservas de alojamiento, junto con otras funcionalidades como gestión de documentos de viaje, gestión de gastos, etc.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -19,10 +20,6 @@ Miembros
  * :bust_in_silhouette:  Inés Nieto Sánchez     :octocat: [@ins426](https://github.com/ins426)
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -64,51 +61,41 @@ Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-jou
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Empathy map
 ----
 
+>>> Tras analizar otras aplicaciones similares, además de lo aprendido en la práctica anteior, hemos podido apreciar que muchas de estas aplicaciones pueden llegar a ser confusas y poco amigables de cara al usuario a la hora de utilizarlas, además de carecer de funcionalidad que debería de ser básica como la planificación por horas, por ello, respecto a la navegación por la aplicación, se intentará facilitar su uso mediante la utilización de una interfaz sencilla que utilice botones claramente etiquetados, que no abuse de submenús y que muestre un tour de la aplicación durante su primera ejecución.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Para acceder al empathy map obtenido a partir de la práctica anterior además de a la propuesta de valor final pulse [aquí.](P2/README.md/#)
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Para acceder al Scope Canvas pulse [aquí.](P2/README.md/#)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Para identificar las tareas y su relevancia para nuestros usuarios, hemos decidido realizar una matriz de tareas/usuarios que nos permitirá segmentar la información relativa a cada tarea por las distintas etapas que presenta el proceso de realizar un viaje, desde la organización inicial hasta su fin. En definitiva, para nuestro caso consideramos que lo más apropiado era diferenciar entre distintos tipos de usuario en función a la etapa de uso en la que se encontraran de nuestra aplicación.
+
+Para acceder a la matriz de tareas pulse [aquí.](P2/README.md/#)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+<img src="P2/sitemapBienvenida.png">
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Para acceder al Sitemap completo y al Labelling pulse [aquí.](P2/README.md/#)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Para el prototipo de esta aplicación se ha utilizado Adobe Xd en conjunto con el UI Kit oficial de Android además del kit de Wireframes "FreeWire".
 
+Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
