@@ -102,4 +102,13 @@ La aplicación implementará las siguientes funcionalidades:
 ![prototipo](viajes.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta práctica hemos sentado las bases de lo que será nuestro proyecto, hemos
+conseguido identificar cual será la funcionalidad de nuestra aplicación además de
+la razón de existir de esta.
+
+También hemos podido organizar y distribuir las distintas secciones de la aplicación
+mediante el sitemap, facilitándonos conseguir una estructura de contenidos y menús
+ordenada.
+
+Por último, el uso de herramientas de prototipado y diseño de GUI como Adobe Xd nos
+ha introducido al uso de este tipo de aplicaciones de diseño.
