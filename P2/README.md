@@ -58,33 +58,39 @@ La aplicación implementará las siguientes funcionalidades:
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap 
+
+![sitemap](sitemap_bienvenida.png)
+![sitemap](sitemap_viajes.png)
+![sitemap](sitemap_ajustes.png)
+![sitemap](sitemap_social.png)
+
 * Labelling 
 
 | Término                | Icono | Significado                                                                                                                                                         |
 |------------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Iniciar Sesión         |![icono](icono/iniciar_sesion.png)       | Se inicia sesión en la aplicación.                                                                                                                                  |
-| Registrarse            |       | Se accede a la opción de registro en la aplicación.                                                                                                                 |
-| Inicio                 |       | Se accede a la página de inicio de la aplicación, donde se muestran el listado de viajes del usuario.                                                               |
-| Buscar                 |       | Se accede a la opción de búsqueda de la aplicación para buscar hoteles y lugares que visitar además de apartados de la aplicación.                                  |
-| Notificaciones         |       | Se acceden a las notificaciones del usuario (nuevos mensajes,solicitudes de amistad, cancelaciones de reservas, retrasos, cambios de restricciones COVID-19...).    |
-| Social                 |       | Se accede a los chats con otros usuarios de la aplicación.                                                                                                          |
-| Ajustes                |       | Configuración de la aplicación y del perfil del usuario (editar nombre de usuario, cambiar de contraseña, cambiar a modo nocturno/diurno, cambiar foto de perfil…). |
-| Filtrar búsqueda       |       | En la opción de buscar se permitirá filtrar la búsqueda del usuario (filtro de popularidad, filtro de sólo restaurantes, sólo hoteles…).                            |
-| Información legal      |       | Políticas de privacidad y uso de la aplicación.                                                                                                                     |
-| Centro de ayuda        |       | El usuario puede resolver sus dudas en un FAQ o Chat Online.                                                                                                        |
-| Chat online            |       | Se abrirá un chat con una IA para responder dudas.                                                                                                                  |
-| FAQ                    |       | Listado de preguntas comunes que se suelen realizar sobre el uso de la aplicación.                                                                                  |
-| Idiomas                |       | Selección de idioma de la aplicación.                                                                                                                               |
-| Tema                   |       | Selección entre un listado de temas para usar en la aplicación.                                                                                                     |
-| Unidades de medida     |       | El usuario podrá seleccionar la moneda, así como las unidades de distancia utilizadas.                                                                              |
-| Gastos                 |       | Listado de los gastos que va introduciendo el usuario durante la planificación y desarrollo del viaje.                                                              |
-| Restricciones COVID-19 |       | Listado de las restricciones COVID-19 en el lugar a visitar por el usuario.                                                                                         |
-| Compartir              |       | Compartir paradas, rutas y fotografías.                                                                                                                             |
-| Reservas               |       | Listado de reservas de hoteles/restaurantes del usuario.                                                                                                            |
-| Documentación          |       | Sección donde guardar toda la documentación relacionada con el viaje (billetes de vuelo, tren, entradas a museos…).                                                 |
-| Paradas                |       | Mapa con las paradas a visitar del viaje del usuario.                                                                                                               |
-| Añadir amigo           |       | Añadir un amigo a la lista de amigos del usuario introduciendo su nombre de usuario.                                                                                |
-| Eliminar amigo         |       | Eliminar un amigo de la lista de amigos del usuario.                                                                                                                |
+| Iniciar Sesión         |![icono](iconos/iniciar_sesion.png)       | Se inicia sesión en la aplicación.                                                                                                                                  |
+| Registrarse            |![icono](iconos/registrar.png)       | Se accede a la opción de registro en la aplicación.                                                                                                                 |
+| Inicio                 | ![icono](iconos/home.png)      | Se accede a la página de inicio de la aplicación, donde se muestran el listado de viajes del usuario.                                                               |
+| Buscar                 |![icono](iconos/loupe-1.png)       | Se accede a la opción de búsqueda de la aplicación para buscar hoteles y lugares que visitar además de apartados de la aplicación.                                  |
+| Notificaciones         | ![icono](iconos/bell.png)      | Se acceden a las notificaciones del usuario (nuevos mensajes,solicitudes de amistad, cancelaciones de reservas, retrasos, cambios de restricciones COVID-19...).    |
+| Social                 | ![icono](iconos/chat.png)      | Se accede a los chats con otros usuarios de la aplicación.                                                                                                          |
+| Ajustes                | ![icono](iconos/settings.png)      | Configuración de la aplicación y del perfil del usuario (editar nombre de usuario, cambiar de contraseña, cambiar a modo nocturno/diurno, cambiar foto de perfil…). |
+| Filtrar búsqueda       |![icono](iconos/filter-results-button.png)       | En la opción de buscar se permitirá filtrar la búsqueda del usuario (filtro de popularidad, filtro de sólo restaurantes, sólo hoteles…).                            |
+| Información legal      |![icono](iconos/auction.png)       | Políticas de privacidad y uso de la aplicación.                                                                                                                     |
+| Centro de ayuda        | ![icono](iconos/information.png)      | El usuario puede resolver sus dudas en un FAQ o Chat Online.                                                                                                        |
+| Chat online            | ![icono](iconos/help-1.png)      | Se abrirá un chat con una IA para responder dudas.                                                                                                                  |
+| FAQ                    |![icono](iconos/faq.png)       | Listado de preguntas comunes que se suelen realizar sobre el uso de la aplicación.                                                                                  |
+| Idiomas                |![icono](iconos/translation.png)       | Selección de idioma de la aplicación.                                                                                                                               |
+| Tema                   | ![icono](iconos/theme.png)      | Selección entre un listado de temas para usar en la aplicación.                                                                                                     |
+| Unidades de medida     | ![icono](iconos/scale.png)      | El usuario podrá seleccionar la moneda, así como las unidades de distancia utilizadas.                                                                              |
+| Gastos                 | ![icono](iconos/money.png)      | Listado de los gastos que va introduciendo el usuario durante la planificación y desarrollo del viaje.                                                              |
+| Restricciones COVID-19 |  ![icono](iconos/test-results.png)     | Listado de las restricciones COVID-19 en el lugar a visitar por el usuario.                                                                                         |
+| Compartir              |![icono](iconos/share-1.png)       | Compartir paradas, rutas y fotografías.                                                                                                                             |
+| Reservas               | ![icono](iconos/booking.png)      | Listado de reservas de hoteles/restaurantes del usuario.                                                                                                            |
+| Documentación          | ![icono](iconos/paper.png)      | Sección donde guardar toda la documentación relacionada con el viaje (billetes de vuelo, tren, entradas a museos…).                                                 |
+| Paradas                | ![icono](iconos/route.png)      | Mapa con las paradas a visitar del viaje del usuario.                                                                                                               |
+| Añadir amigo           | ![icono](iconos/add.png)      | Añadir un amigo a la lista de amigos del usuario introduciendo su nombre de usuario.                                                                                |
+| Eliminar amigo         | ![icono](iconos/unfollow.png)      | Eliminar un amigo de la lista de amigos del usuario.                                                                                                                |
 
                                                                                                               
 
