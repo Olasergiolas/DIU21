@@ -97,7 +97,9 @@ La aplicación implementará las siguientes funcionalidades:
 
 
 ### Prototipo Lo-FI Wireframe 
-
+![prototipo](bienvenida.png)
+![prototipo](inicio.png)
+![prototipo](viajes.png)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
