@@ -20,6 +20,8 @@ La aplicación implementará las siguientes funcionalidades:
 * Un modo oscuro
 * Galería de fotos
 
+### SCOPE CANVAS
+![scope_canvas](scope_canvas.png)
 
 ### TASK ANALYSIS
 
