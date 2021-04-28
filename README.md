@@ -66,20 +66,20 @@ Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-jou
 
 >>> Tras analizar otras aplicaciones similares, además de lo aprendido en la práctica anteior, hemos podido apreciar que muchas de estas aplicaciones pueden llegar a ser confusas y poco amigables de cara al usuario a la hora de utilizarlas, además de carecer de funcionalidad que debería de ser básica como la planificación por horas, por ello, respecto a la navegación por la aplicación, se intentará facilitar su uso mediante la utilización de una interfaz sencilla que utilice botones claramente etiquetados, que no abuse de submenús y que muestre un tour de la aplicación durante su primera ejecución.
 
-Para acceder al empathy map obtenido a partir de la práctica anterior además de a la propuesta de valor final pulse [aquí.](P2/README.md/#)
+Para acceder al empathy map obtenido a partir de la práctica anterior además de a la propuesta de valor final pulse [aquí.](P2/README.md/#ideación)
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-Para acceder al Scope Canvas pulse [aquí.](P2/README.md/#)
+Para acceder al Scope Canvas pulse [aquí.](P2/README.md/#propuesta-de-valor)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Para identificar las tareas y su relevancia para nuestros usuarios, hemos decidido realizar una matriz de tareas/usuarios que nos permitirá segmentar la información relativa a cada tarea por las distintas etapas que presenta el proceso de realizar un viaje, desde la organización inicial hasta su fin. En definitiva, para nuestro caso consideramos que lo más apropiado era diferenciar entre distintos tipos de usuario en función a la etapa de uso en la que se encontraran de nuestra aplicación.
 
-Para acceder a la matriz de tareas pulse [aquí.](P2/README.md/#)
+Para acceder a la matriz de tareas pulse [aquí.](P2/README.md/#task-analysis)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -87,7 +87,7 @@ Para acceder a la matriz de tareas pulse [aquí.](P2/README.md/#)
 
 <img src="P2/sitemap_bienvenida.png">
 
-Para acceder al Sitemap completo y al Labelling pulse [aquí.](P2/README.md/#)
+Para acceder al Sitemap completo y al Labelling pulse [aquí.](P2/README.md/#arquitectura-de-información)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -95,7 +95,7 @@ Para acceder al Sitemap completo y al Labelling pulse [aquí.](P2/README.md/#)
 
 >>> Para el prototipo de esta aplicación se ha utilizado Adobe Xd en conjunto con el UI Kit oficial de Android además del kit de Wireframes "FreeWire".
 
-Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#)
+Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#prototipo-lo-fi-wireframe)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
