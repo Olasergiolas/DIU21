@@ -8,6 +8,9 @@
 * ScopeCanvas
 Se quiere desarrollar una aplicación móvil para la gestión y planificación de viajes. Esta aplicación permitirá al usuario si así lo desea, organizar su viaje hasta el más mínimo detalle, desde especificar horas concretas para paradas del viaje hasta poder hacer futuras reservas en establecimientos dentro de la propia app. El objetivo principal es hacer que el usuario tenga todo lo que necesite para organizar su viaje en una misma aplicación.
 
+### SCOPE CANVAS
+![scope_canvas](scope_canvas.png)
+
 La aplicación implementará las siguientes funcionalidades:
 * Guardar documentación del viaje (billetes de avión, entradas a museos…).
 * Localización del usuario en tiempo real.
@@ -19,9 +22,6 @@ La aplicación implementará las siguientes funcionalidades:
 * Comprar entradas a museos o parques de atracciones.
 * Un modo oscuro
 * Galería de fotos
-
-### SCOPE CANVAS
-![scope_canvas](scope_canvas.png)
 
 ### TASK ANALYSIS
 
