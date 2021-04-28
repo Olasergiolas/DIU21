@@ -85,7 +85,7 @@ Para acceder a la matriz de tareas pulse [aquí.](P2/README.md/#)
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
-<img src="P2/sitemapBienvenida.png">
+<img src="P2/sitemap_bienvenida.png">
 
 Para acceder al Sitemap completo y al Labelling pulse [aquí.](P2/README.md/#)
 
