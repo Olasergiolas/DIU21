@@ -109,7 +109,8 @@ la razón de existir de esta.
 
 También hemos podido organizar y distribuir las distintas secciones de la aplicación
 mediante el sitemap, facilitándonos conseguir una estructura de contenidos y menús
-ordenada.
+ordenada en comparación con otras aplicaciones similares analizadas en la primera práctica.
 
 Por último, el uso de herramientas de prototipado y diseño de GUI como Adobe Xd nos
-ha introducido al uso de este tipo de aplicaciones de diseño.
+ha introducido al uso de este tipo de aplicaciones de diseño las cuales ya nos están siendo
+de utilidad incluso en otras asignaturas como DS para realizar el wireframe de aplicaciones móviles en Flutter.
