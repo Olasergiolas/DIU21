@@ -65,13 +65,24 @@ Hemos querido cambiar los iconos de social, de inicio, buscar, paradas para acer
 ## Mockup: LAYOUT HI-FI
 Ya que tenemos en mente desarrollar una app móvil, realizamos un Mockup de su interfaz en Adobe Xd haciendo uso del kit de interfaz de usuario que provee Google para el Material Design en Adobe Xd en conjunto con algunos plugins disponibles para este software como  Icons 4 design para la obtención de iconos material y Undraw para los dibujos ilustrativos vectorizados utilizados. Este ha sido el resultado:
 
-Insertar imágenes aquí
+<p float="left">
+<img src="MockupHiFi/2.png" width="250" />
+<img src="MockupHiFi/6.png" width="250" />
+<img src="MockupHiFi/3.png" width="250" />
+<img src="MockupHiFi/4.png" width="250" />
+<img src="MockupHiFi/5.png" width="250" />
+<img src="MockupHiFi/1.png" width="250" />
+<img src="MockupHiFi/7.png" width="250" />
+<img src="MockupHiFi/8.png" width="250" />
+</p
 
-Para simular de forma más realista la navegación por la aplicación, hemos cargado el mockup de Adobe Xd en un dispositivo móvil real tras haber establecido todas las conexiones entre los distintos botones de la aplicación para que dirigieran a su lugar correspondiente. Esto también nos ayuda a comprobar que el diseño se adapta correctamente a distintos tamaños de pantalla ya que el diseño se realizó utilizando una plantilla del Pixel4 XL, el cual posee una resolución de 1440 x 3040 pixels y 6’3 pulgadas, y será probado en un Xiaomi MI8 con una resolución de 1080 x 2248 pixels y 6’2 pulgadas.
+Para simular de forma más realista la navegación por la aplicación, hemos cargado el mockup de Adobe Xd en un dispositivo móvil real tras haber establecido todas las conexiones entre los distintos botones de la aplicación para que dirigieran a su lugar correspondiente. Esto también nos ayuda a comprobar que el diseño se adapta correctamente a distintos tamaños de pantalla ya que el diseño se realizó utilizando una plantilla del Pixel4 XL, el cual posee una resolución de 1440 x 3040 pixels y 6’3 pulgadas, y será probado a continuación en un Xiaomi MI8 con una resolución de 1080 x 2248 pixels y 6’2 pulgadas.
 
-Insertar aquí imágen de conexión entre páginas
+<img src="MockupHiFi/prototipo.png" width="500" />
 
-Insertar aquí vídeo con la navegación en el móvil
+### Prueba de navegación del mockup
+Haga click en la miniatura del vídeo para acceder a este
+[![Prueba del mockup](http://img.youtube.com/vi/SJD40C4ZJo4/0.jpg)](http://www.youtube.com/watch?v=SJD40C4ZJo4 "Prueba de navegación del mockup")
 
 
 ## Documentación: Publicación del Case Study
