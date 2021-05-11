@@ -108,7 +108,7 @@ Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#prototi
 
 >>> Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
 
-Para acceder al moodboard de la aplicación pulse [aquí.](P3/README.md/#moodboard-dise%C3%B1o-visual--logotipo)
+Para acceder al moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboard-dise%C3%B1o-visual--logotipo)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
