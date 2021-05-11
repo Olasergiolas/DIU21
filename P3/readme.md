@@ -19,18 +19,27 @@ Los candidatos que más consiguieron a nuestro parecer esa impresión que buscá
 
 ### Fotografías inspiradoras
 Con las fotografías inspiradoras escogidas queríamos captar la esencia de lo que implica un viaje y plasmar esto en nuestra aplicación a través de los colores, iconos e imágenes de la aplicación. Es por esto que escogimos tres imágenes de destinos muy distintos entre sí: tropical, urbano y rural.
+<p float="left">
+<img src="componentesMoodboard/inspiracion1.png" width="250" />
+<img src="componentesMoodboard/inspiracion2.png" width="250" />
+<img src="componentesMoodboard/inspiracion3.png" width="250" />
+</p>
 
 ### Paleta de colores
+<img src="componentesMoodboard/paleta.png" width="600" /><br>
 Al comienzo del diseño de la paleta de colores buscábamos colores divertidos y coloridos, pero terminamos concluyendo que menos es más, pues no queríamos realizar un diseño muy sobrecargado.
 
 A raíz de las fotografías inspiradoras acabamos escogiendo tres colores principales y tres secundarios que recuerdan tanto a un pueblo con colores como el verde del campo o el beige de las paredes de yeso, como a una ciudad con colores nocturnos (negro y azul marino), así como a una playa haciendo uso de colores azulados o narajas que recordaran a la arena o a un atardecer. 
 
 Con estos colores también buscábamos hacer contrastes para destacar los elementos más importantes de la aplicación y el diseño de un tema claro y nocturno, siempre teniendo en cuenta que la combinación de los colores no estuviera muy saturada. En el diseño del modo nocturno probamos el azul marino como fondo, pero no nos resultó cómodo a la vista, así que optamos por el negro que nos pareció una opción mucho mejor y más elegante que la primera. 
+<br><img src="componentesMoodboard/contrastes.png" width="600" />
 
 ### Logotipo
+<br><img src="componentesMoodboard/logo.png" width="300" /><br>
 El logotipo, al ser la imagen principal de la aplicación y de nuestra compañía, queríamos que reflejase esas características mencionadas anteriormente de minimalismo, modernidad y cercanía. Para conseguir ese minimalismo se utilizó la tipografía Rubik regular, que con sus simples trazos encaja perfectamente en lo que buscábamos. Además, se añadió una nube y unos tickets de avión vectorizados con un bajo número de líneas para impulsar esa idea de simplicidad, además de apoyar al subtítulo inferior para dar un incentivo visual fácilmente reconocible sobre lo que trata la aplicación.
 
 ### Tipografías
+<br><img src="componentesMoodboard/fonts.png" width="600" /><br>
 A la hora de elegir las tipografías a utilizar, teníamos en mente principalmente legibilidad, simplicidad y accesibilidad. Es por esto último que hemos querido investigar sobre distintos posibles problemas de accesibilidad que pudiera presentar el usuario. Finalmente, siguiendo los consejos de este [estudio](https://reciteme.com/uploads/articles/accessible_fonts_guide.pdf), hemos decidido incluir en nuestras guidelines el uso de dos fuentes alternativas para intentar facilitar el uso de la aplicación a usuarios con problemas de dislexia o de visibilidad en general. Para lo primero utilizaremos la fuente OpenDyslexic la cual, da más peso a la parte inferior de la letra para intentar combatir esa sensación de movimiento de los caracteres que en ocasiones experimentan estos usuarios mientras que para lo segundo, se ha optado por la tipografía “Fs Me” que intenta llevar la legibilidad un paso más allá destacando cosas como los puntos sobre las ‘i’ y ‘j’.
 
 Las dos tipografías principales que se usarán por defecto serán Rubik y Karla. En primer lugar, Rubik es una fuente muy sencilla, legible, redondeada y ampliamente disponible en la gran mayoría de dispositivos actuales. Sus trazos redondeados pensamos que encajan no solo con la imagen que queremos presentar sino que también con las tendencias de diseño actuales, las cuales utilizan unas líneas más suaves y redondeadas. Respecto a los tamaños en los que se mostrará, utilizaremos 40pt para títulos principales y 25pt para títulos secundarios.
@@ -38,7 +47,12 @@ Las dos tipografías principales que se usarán por defecto serán Rubik y Karla
 Un tercer tipo de título más pequeño se mostrará en Karla ExtraLight Italic 12pt. Por último, el texto normal se mostrará en Karla 12pt. Elegimos Karla por ser una fuente moderna, sans serif y fácil de leer.
 
 ### Herramientas utilizadas
+<p float="left">
+<img src="https://remoters.net/wp-content/uploads/2020/03/milanote-300x220.png"/>
+<img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" width="250" />
+</p>
 La aplicación de Milanote nos llamó la atención desde que la usamos en clase de teoría por su facilidad de uso, sencillez y su facilidad para trabajar en equipo en un mismo tablón. Es por esto que decidimos utilizarla para inspirarnos y plasmar el estilo visual que queríamos para nuestro proyecto.
+<br><br>
 
 Además, se usó Adobe Xd para la creación del logotipo y las muestras de los temas claro y oscuro de nuestra aplicación.
 
@@ -74,19 +88,13 @@ Ya que tenemos en mente desarrollar una app móvil, realizamos un Mockup de su i
 <img src="MockupHiFi/1.png" width="250" />
 <img src="MockupHiFi/7.png" width="250" />
 <img src="MockupHiFi/8.png" width="250" />
-</p
+</p>
 
 Para simular de forma más realista la navegación por la aplicación, hemos cargado el mockup de Adobe Xd en un dispositivo móvil real tras haber establecido todas las conexiones entre los distintos botones de la aplicación para que dirigieran a su lugar correspondiente. Esto también nos ayuda a comprobar que el diseño se adapta correctamente a distintos tamaños de pantalla ya que el diseño se realizó utilizando una plantilla del Pixel4 XL, el cual posee una resolución de 1440 x 3040 pixels y 6’3 pulgadas, y será probado a continuación en un Xiaomi MI8 con una resolución de 1080 x 2248 pixels y 6’2 pulgadas.
 
-<img src="MockupHiFi/prototipo.png" width="500" />
-
-### Prueba de navegación del mockup
-Haga click en la miniatura del vídeo para acceder a este
-[![Prueba del mockup](http://img.youtube.com/vi/SJD40C4ZJo4/0.jpg)](http://www.youtube.com/watch?v=SJD40C4ZJo4 "Prueba de navegación del mockup")
-
+<img src="MockupHiFi/prototipo.png" width="500" /><br>
 
 ## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Haga click en la miniatura del vídeo para acceder a este
+<br>[![Prueba del mockup](http://img.youtube.com/vi/SJD40C4ZJo4/0.jpg)](http://www.youtube.com/watch?v=SJD40C4ZJo4 "Prueba de navegación del mockup")<br>
  
