@@ -96,9 +96,13 @@ Ya que tenemos en mente desarrollar una app móvil, realizamos un Mockup de su i
 
 Para simular de forma más realista la navegación por la aplicación, hemos cargado el mockup de Adobe Xd en un dispositivo móvil real tras haber establecido todas las conexiones entre los distintos botones de la aplicación para que dirigieran a su lugar correspondiente. Esto también nos ayuda a comprobar que el diseño se adapta correctamente a distintos tamaños de pantalla ya que el diseño se realizó utilizando una plantilla del Pixel4 XL, el cual posee una resolución de 1440 x 3040 pixels y 6’3 pulgadas, y será probado a continuación en un Xiaomi MI8 con una resolución de 1080 x 2248 pixels y 6’2 pulgadas.
 
-<img src="MockupHiFi/prototipo.png" width="500" /><br>
+El prototipo en Adobe Xd quedaría así:
+<br><img src="MockupHiFi/prototipo.png" width="600" /><br>
+
+### Prueba en un dispositivo real
+Haga click en la miniatura del vídeo para acceder a este:
+<br>[![Prueba del mockup](http://img.youtube.com/vi/SJD40C4ZJo4/0.jpg)](http://www.youtube.com/watch?v=SJD40C4ZJo4 "Prueba de navegación del mockup")<br>
 
 ## Documentación: Publicación del Case Study
-Haga click en la miniatura del vídeo para acceder a este
-<br>[![Prueba del mockup](http://img.youtube.com/vi/SJD40C4ZJo4/0.jpg)](http://www.youtube.com/watch?v=SJD40C4ZJo4 "Prueba de navegación del mockup")<br>
+
  
