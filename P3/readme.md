@@ -3,6 +3,8 @@
 ## Moodboard (diseño visual + logotipo)
 Al empezar a idear nuestra aplicación, buscábamos dar una imagen moderna, minimalista y que resultara amigable al usuario. Esto se ha tenido en cuenta a la hora de escoger los colores, fuentes y en general, para tomar decisiones respecto a las guidelines de la que será nuestra aplicación.
 
+![moodboard](moodboard.png)
+
 ### Nombre de la aplicación
 El nombre a utilizar no fue muy difícil de elegir realmente. El nombre “Lolis” surgió como una broma interna que con el tiempo se derivó del nombre “Lola”. Como nos gustaba el nombre y no nos recordaba a ninguna otra cosa, decidimos bautizar así a la aplicación.
 
@@ -43,6 +45,7 @@ Además, se usó Adobe Xd para la creación del logotipo y las muestras de los t
 
 ## Landing Page
 Con el lading page queríamos que el usuario con un solo vistazo tenga una idea general sobre los servicios de nuestra aplicación y qué nos diferencia y hace mejor de nuestros competidores (compartir gastos y organizar documentos de viaje), además de incentivar al visitante a descargar nuestra aplicación. 
+![landing-page](landing-page.png)
 
 Con la Landing Page también queríamos transmitir el diseño minimalista de la aplicación con el uso de contrastes de colores e imaǵenes planas tal y como se ha planteado en el moodboard anteriormente. También acompañamos la Lading Page con nuestro eslogan y una serie de imágenes que irán apareciendo a modo de carrusel dentro del mockup del iPhone 12 que aparece a la derecha. Estas imágenes serán muestras de la interfaz y la funcionalidad principal que presenta la aplicación con el objetivo de servir como refuerzo visual para animar al usuario a probarla.
 
@@ -62,9 +65,7 @@ Hemos querido cambiar los iconos de social, de inicio, buscar, paradas para acer
 ## Mockup: LAYOUT HI-FI
 Ya que tenemos en mente desarrollar una app móvil, realizamos un Mockup de su interfaz en Adobe Xd haciendo uso del kit de interfaz de usuario que provee Google para el Material Design en Adobe Xd en conjunto con algunos plugins disponibles para este software como  Icons 4 design para la obtención de iconos material y Undraw para los dibujos ilustrativos vectorizados utilizados. Este ha sido el resultado:
 
-
-Insertar aquí imágenes
-
+Insertar imágenes aquí
 
 Para simular de forma más realista la navegación por la aplicación, hemos cargado el mockup de Adobe Xd en un dispositivo móvil real tras haber establecido todas las conexiones entre los distintos botones de la aplicación para que dirigieran a su lugar correspondiente. Esto también nos ayuda a comprobar que el diseño se adapta correctamente a distintos tamaños de pantalla ya que el diseño se realizó utilizando una plantilla del Pixel4 XL, el cual posee una resolución de 1440 x 3040 pixels y 6’3 pulgadas, y será probado en un Xiaomi MI8 con una resolución de 1080 x 2248 pixels y 6’2 pulgadas.
 
