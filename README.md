@@ -108,33 +108,39 @@ Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#prototi
 
 >>> Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
 
-Para acceder al moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboard-dise%C3%B1o-visual--logotipo)
+Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboard-dise%C3%B1o-visual--logotipo)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>> Con la Landing Page queremos que con un vistazo rápido el usuario sepa de qué trata a grandes rasgos nuestra aplicación, informando a su vez qué nos hace diferentes y mejores de nuestros competidores
+
+Para acceder a la Landing Page pulse [aquí.](P3/readme.md/#landing-page)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>>  Como Guidelines hemos hecho uso de las Material Design de Android aplicando algunos de los patrones de diseño vistos en clase.
+
+Para acceder a las Guidelines pulse [aquí.](P3/readme.md/#guidelines)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Hemos creado un Mockup basándonos en todos los apartados anteriores, así como en la práctica 2. Además, hemos grabado y subido a Youtube una simulación de cómo se vería nuestra aplicación en el móvil.
+
+Para acceder al Mockup pulse [aquí.](P3/readme.md/#mockup-layout-hi-fi)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
+>>> A lo largo de la práctica hemos ido contando la realización de todo el proceso de diseño, pero también hemos realizado un video en el que lo resumimos brevemente.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para acceder al Case Study pulse [aquí.](P3/readme.md/#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
 
 
 ## Paso 4. Evaluación 
