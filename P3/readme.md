@@ -41,6 +41,10 @@ El logotipo, al ser la imagen principal de la aplicación y de nuestra compañí
 ### Tipografías
 <br><img src="componentesMoodboard/fonts.png" width="600" /><br>
 A la hora de elegir las tipografías a utilizar, teníamos en mente principalmente legibilidad, simplicidad y accesibilidad. Es por esto último que hemos querido investigar sobre distintos posibles problemas de accesibilidad que pudiera presentar el usuario. Finalmente, siguiendo los consejos de este [estudio](https://reciteme.com/uploads/articles/accessible_fonts_guide.pdf), hemos decidido incluir en nuestras guidelines el uso de dos fuentes alternativas para intentar facilitar el uso de la aplicación a usuarios con problemas de dislexia o de visibilidad en general. Para lo primero utilizaremos la fuente OpenDyslexic la cual, da más peso a la parte inferior de la letra para intentar combatir esa sensación de movimiento de los caracteres que en ocasiones experimentan estos usuarios mientras que para lo segundo, se ha optado por la tipografía “Fs Me” que intenta llevar la legibilidad un paso más allá destacando cosas como los puntos sobre las ‘i’ y ‘j’.
+<p float="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenDyslexic.png" width="500"/>
+<img src="https://d2pzhy4sc0lwtr.cloudfront.net/typeface_gallery_images/original/214/56242cf60a39c91a502f5a7a3adcae63.png" width="500" />
+</p>
 
 Las dos tipografías principales que se usarán por defecto serán Rubik y Karla. En primer lugar, Rubik es una fuente muy sencilla, legible, redondeada y ampliamente disponible en la gran mayoría de dispositivos actuales. Sus trazos redondeados pensamos que encajan no solo con la imagen que queremos presentar sino que también con las tendencias de diseño actuales, las cuales utilizan unas líneas más suaves y redondeadas. Respecto a los tamaños en los que se mostrará, utilizaremos 40pt para títulos principales y 25pt para títulos secundarios.
 
