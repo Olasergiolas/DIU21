@@ -98,15 +98,17 @@ Para acceder al Sitemap completo y al Labelling pulse [aquí.](P2/README.md/#arq
 Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#prototipo-lo-fi-wireframe)
 
 ## Paso 3. Mi UX-Case Study (diseño)
+>>> Para la realización de nuestra aplicación hemos analizado y comparado distintas apps de gestión de viajes, nos hemos preguntado cuáles son las necesidades principales en la planificación de un viaje y qué factores visuales hacen más atractiva a una aplicación de este tipo para el usuario. 
+
+>>> Para la parte funcional hemos detallado las funcionalidades imprescindibles con las que tenía que contar nuestra aplicación. En cuanto al aspecto visual, nos hemos inspirado en los distintos tipos de destinos (tropicales, rurales, urbanos…) para la elección de una paleta de colores, hemos hecho uso de la psicología de tipografías, pensado en la accesibilidad para distintos tipos de usuarios y aplicado distintos patrones de interacción para conseguir una aplicación intuitiva, cómoda y cercana al usuario.
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+>>> Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para acceder al moodboard de la aplicación pulse [aquí.](P3/README.md/#moodboard-diseño-visual--logotipo)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
