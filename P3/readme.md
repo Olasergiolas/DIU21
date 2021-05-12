@@ -104,6 +104,7 @@ Haga click en la miniatura del vídeo para acceder a este:
 <br>[![Prueba del mockup](http://img.youtube.com/vi/SJD40C4ZJo4/0.jpg)](http://www.youtube.com/watch?v=SJD40C4ZJo4 "Prueba de navegación del mockup")<br>
 
 ## Documentación: Publicación del Case Study
+Hemos publicado en Youtube un vídeo sobre nuestro Case Study, para acceder a este pulse [aquí](https://www.youtube.com/watch?v=_ayJhUkMq-k).
 
 ## Conclusión final
 Esta práctica nos ha parecido muy interesante ya que durante su realización, nos hemos sentido realmente parte de un proceso de diseño real como sucedía en el ejemplo del UX Case Study de Muse Map. Además, hemos tenido la oportunidad de hacer uso de nuestra faceta creativa, utilizando herramientas que sin dudar usaremos en el futuro como adobe Xd o Milanote.
