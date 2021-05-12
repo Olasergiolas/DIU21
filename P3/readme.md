@@ -105,4 +105,11 @@ Haga click en la miniatura del vídeo para acceder a este:
 
 ## Documentación: Publicación del Case Study
 
+## Conclusión final
+Esta práctica nos ha parecido muy interesante ya que durante su realización, nos hemos sentido realmente parte de un proceso de diseño real como sucedía en el ejemplo del UX Case Study de Muse Map. Además, hemos tenido la oportunidad de hacer uso de nuestra faceta creativa, utilizando herramientas que sin dudar usaremos en el futuro como adobe Xd o Milanote.
+
+Principalmente valoramos el echo de haber aprendido todo el procedimiento previo a llegar a un Mockup Hi-Fi de la aplicación, lo cual nos ha permitido realizar unos diseños consistentes y más pulidos en general.
+
+Por último, aunque en general nos ha resultado una muy buena experiencia, si que consideramos que la práctica podría realizarse mejor con algo más de tiempo ya que, debido a la carga de trabajo que presenta junto con la carga del resto de asignaturas, se nos ha complicado terminar todo a tiempo.
+
  
