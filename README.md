@@ -106,7 +106,7 @@ Podéis ver la historia completa del proceso de Case Study para nuestra aplicaci
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
+Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario. Durante el proceso quisimos inspirarnos con imágenes de algunos de los posibles destinos a los que podría viajar un usuario como son un pueblo, la playa o la ciudad. De estas imágenes obtuvimos una paleta de colores, buscamos estudios sobre psicología de tipografías, decidimos realizar un tema claro y nocturno buscando siempre esa sensación minimalista.
 
 ![moodboard](P3/moodboard.png)
 
@@ -117,7 +117,7 @@ Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboa
 ----
 
 
-Con la Landing Page queremos que con un vistazo rápido el usuario sepa de qué trata a grandes rasgos nuestra aplicación, informando a su vez qué nos hace diferentes y mejores de nuestros competidores.
+Para su diseño nos ayudamos del moodboard, haciendo contrastes de colores y haciendo uso de las fuentes escogidas. Con la Landing Page queremos que con un vistazo rápido el usuario sepa de qué trata a grandes rasgos nuestra aplicación, informando a su vez qué nos hace diferentes y mejores de nuestros competidores para animar al usuario a descargar nuestra aplicación. 
 
 ![landing-page](P3/landing-page.png)
 
@@ -134,7 +134,7 @@ Para acceder a las Guidelines pulse [aquí.](P3/readme.md/#guidelines)
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Hemos creado un Mockup basándonos en todos los apartados anteriores, así como en la práctica 2. Además, hemos grabado y subido a Youtube una simulación de cómo se vería nuestra aplicación en el móvil.
+Hemos creado un Mockup usando la herramienta Adobe Xd basándonos en todos los apartados anteriores, así como en la práctica 2. Además, hemos grabado y subido a Youtube una simulación de cómo se vería nuestra aplicación en el móvil.
 
 <img src="P3/MockupHiFi/2.png" width="250" />
 
