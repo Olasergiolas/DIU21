@@ -12,6 +12,9 @@ Descripción: Lolis se trata de una aplicación móvil que busca unificar todas 
 Logotipo: 
 <br><img src="P3/componentesMoodboard/logo.png" width="300" /><br>
 
+Eslogan: **"Tu mejor plan empieza con nosotros"**
+
+
 Miembros
  * :bust_in_silhouette:   Sergio García Cabrera     :octocat: [@Olasergiolas](https://github.com/Olasergiolas)    
  * :bust_in_silhouette:  Inés Nieto Sánchez     :octocat: [@ins426](https://github.com/ins426)
@@ -99,11 +102,13 @@ Para la realización de nuestra aplicación hemos analizado y comparado distinta
 
 Para la parte funcional hemos detallado las funcionalidades imprescindibles con las que tenía que contar nuestra aplicación. En cuanto al aspecto visual, nos hemos inspirado en los distintos tipos de destinos (tropicales, rurales, urbanos…) para la elección de una paleta de colores, hemos hecho uso de la psicología de tipografías, pensado en la accesibilidad para distintos tipos de usuarios y aplicado distintos patrones de interacción para conseguir una aplicación intuitiva, cómoda y cercana al usuario.
 
+Podéis ver un resumen del proceso de Case Study para nuestra aplicación "Lolis" en este [vídeo](https://www.youtube.com/watch?v=_ayJhUkMq-k)
+
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándonos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
+Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
 
 Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboard-dise%C3%B1o-visual--logotipo)
 
