@@ -103,7 +103,7 @@ Para la parte funcional hemos detallado las funcionalidades imprescindibles con 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
+Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándonos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
 
 Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboard-dise%C3%B1o-visual--logotipo)
 
