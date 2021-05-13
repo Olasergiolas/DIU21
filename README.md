@@ -98,11 +98,9 @@ Para el prototipo de esta aplicación se ha utilizado Adobe Xd en conjunto con e
 Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#prototipo-lo-fi-wireframe)
 
 ## Paso 3. Mi UX-Case Study (diseño)
-Para la realización de nuestra aplicación hemos analizado y comparado distintas apps de gestión de viajes, nos hemos preguntado cuáles son las necesidades principales en la planificación de un viaje y qué factores visuales hacen más atractiva a una aplicación de este tipo para el usuario. 
+Estábamos buscando una aplicación para organizar nuestro viaje de verano, pero tras probar algunas de las principales opciones disponibles en el Play Store, nos decepcionó, ninguna nos convenció completamente. Algunas eran confusas, mientras que a otras les faltaba funcionalidades o nos parecían poco seguras. Esto nos motivó a diseñar nuestra propia aplicación de planificación de viajes. Una aplicación cuyo principal objetivo es acompañar al usuario durante todas las etapas de su viaje, dándole todas las herramientas que pueda necesitar, de una forma personalizada gracias al aprendizaje de los gustos del usuario que realiza la aplicación mediante inteligencia artificial.
 
-Para la parte funcional hemos detallado las funcionalidades imprescindibles con las que tenía que contar nuestra aplicación. En cuanto al aspecto visual, nos hemos inspirado en los distintos tipos de destinos (tropicales, rurales, urbanos…) para la elección de una paleta de colores, hemos hecho uso de la psicología de tipografías, pensado en la accesibilidad para distintos tipos de usuarios y aplicado distintos patrones de interacción para conseguir una aplicación intuitiva, cómoda y cercana al usuario.
-
-Podéis ver un resumen del proceso de Case Study para nuestra aplicación "Lolis" en este [vídeo](https://www.youtube.com/watch?v=_ayJhUkMq-k)
+Podéis ver la historia completa del proceso de Case Study para nuestra aplicación "Lolis" en este [vídeo](https://www.youtube.com/watch?v=_ayJhUkMq-k)
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
