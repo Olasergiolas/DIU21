@@ -15,10 +15,16 @@ Cuando pensamos en un eslogan, queríamos dar una impresión de calidez y cercan
 - Colecciona momentos no cosas.
 - Somos cómplices de tu aventura.
 
+Una vez teníamos estos candidatos pensamos, ¿Qué mejor forma para elegir el mejor eslogan que simplemente diciéndolo en voz alta? Así que simplemente nos reunimos en llamada a leerlos en voz alta hasta que tomamos una decisión.
+
 Los candidatos que más consiguieron a nuestro parecer esa impresión que buscábamos fueron “Somos cómplices de tu aventura.” y el último que elegimos, “Tu mejor plan empieza con nosotros.”. Al final, nos terminamos decantando por el segundo, en gran parte debido a que ese uso de la palabra “nosotros” nos parecía que podía sonar más cercano y familiar al cliente.
 
 ### Fotografías inspiradoras
-Con las fotografías inspiradoras escogidas queríamos captar la esencia de lo que implica un viaje y plasmar esto en nuestra aplicación a través de los colores, iconos e imágenes de la aplicación. Es por esto que escogimos tres imágenes de destinos muy distintos entre sí: tropical, urbano y rural.
+Con las fotografías inspiradoras escogidas queríamos captar la esencia de lo que implica un viaje y plasmar esto en nuestra aplicación a través de los colores, iconos e imágenes de la aplicación. 
+
+Para obtener las imágenes, decidimos utilizar esta herramienta https://labs.tineye.com/multicolr/ la cual nos permite buscar fotografías de Flickr seleccionando una paleta de hasta 5 colores y una serie de tags para filtrar la búsqueda por temática.
+
+Terminamos escogiendo tres imágenes de destinos muy distintos entre sí: tropical, urbano y rural.
 <p float="left">
 <img src="componentesMoodboard/inspiracion1.png" width="250" />
 <img src="componentesMoodboard/inspiracion2.png" width="250" />
@@ -29,14 +35,18 @@ Con las fotografías inspiradoras escogidas queríamos captar la esencia de lo q
 <img src="componentesMoodboard/paleta.png" width="600" /><br>
 Al comienzo del diseño de la paleta de colores buscábamos colores divertidos y coloridos, pero terminamos concluyendo que menos es más, pues no queríamos realizar un diseño muy sobrecargado.
 
-A raíz de las fotografías inspiradoras acabamos escogiendo tres colores principales y tres secundarios que recuerdan tanto a un pueblo con colores como el verde del campo o el beige de las paredes de yeso, como a una ciudad con colores nocturnos (negro y azul marino), así como a una playa haciendo uso de colores azulados o narajas que recordaran a la arena o a un atardecer. 
+A raíz de las fotografías inspiradoras, entramos a https://coolors.co/ para decidir nuestra paleta de colores y acabamos escogiendo tres colores principales y tres secundarios que recuerdan tanto a un pueblo con colores como el verde del campo o el beige de las paredes de yeso, como a una ciudad con colores nocturnos (negro y azul marino), así como a una playa haciendo uso de colores azulados o narajas que recordaran a la arena o a un atardecer. 
 
 Con estos colores también buscábamos hacer contrastes para destacar los elementos más importantes de la aplicación y el diseño de un tema claro y nocturno, siempre teniendo en cuenta que la combinación de los colores no estuviera muy saturada. En el diseño del modo nocturno probamos el azul marino como fondo, pero no nos resultó cómodo a la vista, así que optamos por el negro que nos pareció una opción mucho mejor y más elegante que la primera. 
 <br><img src="componentesMoodboard/contrastes.png" width="600" />
 
 ### Logotipo
 <br><img src="componentesMoodboard/logo.png" width="300" /><br>
-El logotipo, al ser la imagen principal de la aplicación y de nuestra compañía, queríamos que reflejase esas características mencionadas anteriormente de minimalismo, modernidad y cercanía. Para conseguir ese minimalismo se utilizó la tipografía Rubik regular, que con sus simples trazos encaja perfectamente en lo que buscábamos. Además, se añadió una nube y unos tickets de avión vectorizados con un bajo número de líneas para impulsar esa idea de simplicidad, además de apoyar al subtítulo inferior para dar un incentivo visual fácilmente reconocible sobre lo que trata la aplicación.
+El logotipo, al ser la imagen principal de la aplicación y de nuestra compañía, queríamos que reflejase esas características mencionadas anteriormente de minimalismo, modernidad y cercanía.
+
+Con estas ideas en mente, utilizamos Adobe Xd en conjunto con el plugin de unDraw (catálogo de gran tamaño de dibujos vectorizados) para diseñar nuestro logo.
+
+En el resultado final, conseguimos ese minimalismo utilizando la tipografía Rubik regular, que con sus simples trazos encaja perfectamente en lo que buscábamos. Además, se añadió una nube y unos tickets de avión vectorizados con un bajo número de líneas para impulsar esa idea de simplicidad, además de apoyar al subtítulo inferior para dar un incentivo visual fácilmente reconocible sobre lo que trata la aplicación.
 
 ### Tipografías
 <br><img src="componentesMoodboard/fonts.png" width="600" /><br>
@@ -50,13 +60,15 @@ Las dos tipografías principales que se usarán por defecto serán Rubik y Karla
 
 Un tercer tipo de título más pequeño se mostrará en Karla ExtraLight Italic 12pt. Por último, el texto normal se mostrará en Karla 12pt. Elegimos Karla por ser una fuente moderna, sans serif y fácil de leer.
 
-### Herramientas utilizadas
+### Herramientas utilizadas en el Moodboard
 <p float="left">
 <img src="https://remoters.net/wp-content/uploads/2020/03/milanote-300x220.png"/>
 <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" width="250" />
 </p>
+Además de las diferentes páginas mencionadas anteriormente, estas dos aplicaciones fueron a las que más tiempo dedicamos:
+
 La aplicación de Milanote nos llamó la atención desde que la usamos en clase de teoría por su facilidad de uso, sencillez y su facilidad para trabajar en equipo en un mismo tablón. Es por esto que decidimos utilizarla para inspirarnos y plasmar el estilo visual que queríamos para nuestro proyecto.
-<br><br>
+<br>
 
 Además, se usó Adobe Xd para la creación del logotipo y las muestras de los temas claro y oscuro de nuestra aplicación.
 
@@ -65,12 +77,14 @@ Además, se usó Adobe Xd para la creación del logotipo y las muestras de los t
 Con el lading page queríamos que el usuario con un solo vistazo tenga una idea general sobre los servicios de nuestra aplicación y qué nos diferencia y hace mejor de nuestros competidores (compartir gastos y organizar documentos de viaje), además de incentivar al visitante a descargar nuestra aplicación. 
 ![landing-page](landing-page.png)
 
-Con la Landing Page también queríamos transmitir el diseño minimalista de la aplicación con el uso de contrastes de colores e imaǵenes planas tal y como se ha planteado en el moodboard anteriormente. También acompañamos la Lading Page con nuestro eslogan y una serie de imágenes que irán apareciendo a modo de carrusel dentro del mockup del iPhone 12 que aparece a la derecha. Estas imágenes serán muestras de la interfaz y la funcionalidad principal que presenta la aplicación con el objetivo de servir como refuerzo visual para animar al usuario a probarla.
+También queríamos transmitir el diseño minimalista de la aplicación con el uso de contrastes de colores e imaǵenes planas tal y como se ha planteado en el moodboard anteriormente. Acompañamos la Lading Page con nuestro eslogan y una serie de imágenes que irán apareciendo a modo de carrusel dentro del mockup del iPhone 12 que aparece a la derecha. Estas imágenes serán muestras de la interfaz y la funcionalidad principal que presenta la aplicación con el objetivo de servir como refuerzo visual para animar al usuario a probarla.
+
+Realizar el diseño de la landing page en Adobe Xd fue un proceso agradable y rápido gracias al gran catálogo de útiles extensiones que posee como unDraw o icons 4 Design. Quedamos muy contentos con el resultado ya que conseguía transmitir todo lo que queríamos y haciéndolo con un diseño cuidado.
 
 ## Guidelines
 La gran mayoría de los aspectos relacionados con las guidelines ya han sido tratados en el apartado del Moodboard aunque es necesario tratar dos aspectos más:
 
-- En primer lugar, las guidelines del dispositivo utilizadas en conjunto con las diseñadas para nuestra aplicación. Hemos optado por seguir las guidelines de diseño que Android aporta llamadas, “Material design”, además de intentar acercar nuestras guidelines a estas para que todo el diseño de la interfaz fluya y resulte consistente. Es por esto, que nuestra interfaz utiliza elementos del Material design como la barra superior, la barra inferior de navegación y el diseño de los botones en conjunto con nuestra paleta de colores y fuentes.
+- En primer lugar, las guidelines del dispositivo utilizadas en conjunto con las diseñadas para nuestra aplicación. Hemos optado por seguir las guidelines de diseño que Android aporta, llamadas “Material design”, además de intentar acercar nuestras guidelines a estas para que todo el diseño de la interfaz fluya y resulte consistente. Para aprender sobre las pautas del Material design consultamos la página oficial https://material.io/design la cual ofrece una documentación muy completa y visual. Nuestra interfaz utiliza elementos del Material design como la barra superior, la barra inferior de navegación y el diseño de los botones en conjunto con nuestra paleta de colores y fuentes.
 
 - En segundo lugar en cuanto a los patrones, utilizamos tres:
 	- El de listado de elementos, encontrado en el menú de inicio de sesión, en el menú de opciones de un viaje y en el apartado de gastos.
@@ -111,6 +125,6 @@ Esta práctica nos ha parecido muy interesante ya que durante su realización, n
 
 Principalmente valoramos el echo de haber aprendido todo el procedimiento previo a llegar a un Mockup Hi-Fi de la aplicación, lo cual nos ha permitido realizar unos diseños consistentes y más pulidos en general.
 
-Por último, aunque en general nos ha resultado una muy buena experiencia, si que consideramos que la práctica podría realizarse mejor con algo más de tiempo ya que, debido a la carga de trabajo que presenta junto con la carga del resto de asignaturas, se nos ha complicado terminar todo a tiempo.
+Por último, aunque en general nos ha resultado una muy buena experiencia, si que consideramos que la práctica podría realizarse mejor con algo más de tiempo ya que, debido a la carga de trabajo que presenta junto con la carga del resto de asignaturas, se nos ha complicado terminar todo a tiempo obteniendo un resultado con el que estuviéramos satisfechos.
 
  
