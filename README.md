@@ -5,15 +5,12 @@ Grupo: DIU1_Aguacate.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Lolis
+Lolis
 
-Descripción: 
-
->>> Lolis se trata de una aplicación móvil que busca unificar todas las herramientas que un viajero puede necesitar para organizar su viaje, desde planificación
->>> de rutas, hasta reservas de alojamiento, junto con otras funcionalidades como gestión de documentos de viaje, gestión de gastos, etc.
+Descripción: Lolis se trata de una aplicación móvil que busca unificar todas las herramientas que un viajero puede necesitar para organizar su viaje, desde planificación de rutas, hasta reservas de alojamiento, junto con otras funcionalidades como gestión de documentos de viaje, gestión de gastos, etc.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:   Sergio García Cabrera     :octocat: [@Olasergiolas](https://github.com/Olasergiolas)    
@@ -29,21 +26,21 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> De entre todas las aplicaciones observadas, cuatro han sido seleccionadas para la realización del análisis competitivo: Lambus, Tripit, Sygic Travel y Polarsteps. De entre estas cinco, hemos elegido Lambus por sus buenas reviews en Google Play Store, además de su cuidada presentación en comparación con sus competidores seleccionados.
+De entre todas las aplicaciones observadas, cuatro han sido seleccionadas para la realización del análisis competitivo: Lambus, Tripit, Sygic Travel y Polarsteps. De entre estas cinco, hemos elegido Lambus por sus buenas reviews en Google Play Store, además de su cuidada presentación en comparación con sus competidores seleccionados.
 
 Para acceder al análisis competitivo al completo pulse [aquí](P1/README.md/#1-an%C3%A1lisis-de-competencia).
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Para las personas a utilizar, hemos querido representar dos perfiles muy diferentes: [Isella](P1/README.md/#2-personas) y [Onesífero de los Ríos](P1/README.md/#2-personas).
->>> Hemos elegido a estas personas porque ambas presentan retos interesantes que muestran las dificultades a las que se
->>> podría enfrentar un usuario real.
+Para las personas a utilizar, hemos querido representar dos perfiles muy diferentes: [Isella](P1/README.md/#2-personas) y [Onesífero de los Ríos](P1/README.md/#2-personas).
+Hemos elegido a estas personas porque ambas presentan retos interesantes que muestran las dificultades a las que se
+podría enfrentar un usuario real.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Hemos querido representar el uso de la aplicación por parte de las dos personas diseñadas teniendo en cuenta el reto que cada una presenta.
+Hemos querido representar el uso de la aplicación por parte de las dos personas diseñadas teniendo en cuenta el reto que cada una presenta.
 
 Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-journey-maps).
 
@@ -51,12 +48,12 @@ Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-jou
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
->>> - Enlace a la [sección](P1/README.md/#4-revisión-de-usabilidad).
->>> - Enlace al documento [aquí](P1/Usability-review-Lambus.pdf).
- >>> - Valoración final: 65
- >>> - Comentario sobre la valoración: En general, Lambus ha demostrado ser una app que mayormente cumple con la 
- >>> funcionalidad básica que puede esperar un viajero pero que se ve lastrada por el uso de unos menús poco 
- >>> señalizados por los que es fácil perderse.
+- Enlace a la [sección](P1/README.md/#4-revisión-de-usabilidad).
+- Enlace al documento [aquí](P1/Usability-review-Lambus.pdf).
+- Valoración final: 65
+- Comentario sobre la valoración: En general, Lambus ha demostrado ser una app que mayormente cumple con la 
+funcionalidad básica que puede esperar un viajero pero que se ve lastrada por el uso de unos menús poco 
+señalizados por los que es fácil perderse.
 
 ## Paso 2. UX Design  
 
@@ -64,7 +61,7 @@ Para ver el Journey Map de Isella y Onesífero pulse [aquí](P1/README.md/#3-jou
 ![Método UX](img/feedback-capture-grid.png) 2.a Empathy map
 ----
 
->>> Tras analizar otras aplicaciones similares, además de lo aprendido en la práctica anteior, hemos podido apreciar que muchas de estas aplicaciones pueden llegar a ser confusas y poco amigables de cara al usuario a la hora de utilizarlas, además de carecer de funcionalidad que debería de ser básica como la planificación por horas, por ello, respecto a la navegación por la aplicación, se intentará facilitar su uso mediante la utilización de una interfaz sencilla que utilice botones claramente etiquetados, que no abuse de submenús y que muestre un tour de la aplicación durante su primera ejecución.
+Tras analizar otras aplicaciones similares, además de lo aprendido en la práctica anteior, hemos podido apreciar que muchas de estas aplicaciones pueden llegar a ser confusas y poco amigables de cara al usuario a la hora de utilizarlas, además de carecer de funcionalidad que debería de ser básica como la planificación por horas, por ello, respecto a la navegación por la aplicación, se intentará facilitar su uso mediante la utilización de una interfaz sencilla que utilice botones claramente etiquetados, que no abuse de submenús y que muestre un tour de la aplicación durante su primera ejecución.
 
 Para acceder al empathy map obtenido a partir de la práctica anterior además de a la propuesta de valor final pulse [aquí.](P2/README.md/#ideación)
 
@@ -77,7 +74,7 @@ Para acceder al Scope Canvas pulse [aquí.](P2/README.md/#propuesta-de-valor)
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Para identificar las tareas y su relevancia para nuestros usuarios, hemos decidido realizar una matriz de tareas/usuarios que nos permitirá segmentar la información relativa a cada tarea por las distintas etapas que presenta el proceso de realizar un viaje, desde la organización inicial hasta su fin. En definitiva, para nuestro caso consideramos que lo más apropiado era diferenciar entre distintos tipos de usuario en función a la etapa de uso en la que se encontraran de nuestra aplicación.
+Para identificar las tareas y su relevancia para nuestros usuarios, hemos decidido realizar una matriz de tareas/usuarios que nos permitirá segmentar la información relativa a cada tarea por las distintas etapas que presenta el proceso de realizar un viaje, desde la organización inicial hasta su fin. En definitiva, para nuestro caso consideramos que lo más apropiado era diferenciar entre distintos tipos de usuario en función a la etapa de uso en la que se encontraran de nuestra aplicación.
 
 Para acceder a la matriz de tareas pulse [aquí.](P2/README.md/#task-analysis)
 
@@ -93,20 +90,20 @@ Para acceder al Sitemap completo y al Labelling pulse [aquí.](P2/README.md/#arq
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Para el prototipo de esta aplicación se ha utilizado Adobe Xd en conjunto con el UI Kit oficial de Android además del kit de Wireframes "FreeWire".
+Para el prototipo de esta aplicación se ha utilizado Adobe Xd en conjunto con el UI Kit oficial de Android además del kit de Wireframes "FreeWire".
 
 Para acceder al prototipo de la aplicación pulse [aquí.](P2/README.md/#prototipo-lo-fi-wireframe)
 
 ## Paso 3. Mi UX-Case Study (diseño)
->>> Para la realización de nuestra aplicación hemos analizado y comparado distintas apps de gestión de viajes, nos hemos preguntado cuáles son las necesidades principales en la planificación de un viaje y qué factores visuales hacen más atractiva a una aplicación de este tipo para el usuario. 
+Para la realización de nuestra aplicación hemos analizado y comparado distintas apps de gestión de viajes, nos hemos preguntado cuáles son las necesidades principales en la planificación de un viaje y qué factores visuales hacen más atractiva a una aplicación de este tipo para el usuario. 
 
->>> Para la parte funcional hemos detallado las funcionalidades imprescindibles con las que tenía que contar nuestra aplicación. En cuanto al aspecto visual, nos hemos inspirado en los distintos tipos de destinos (tropicales, rurales, urbanos…) para la elección de una paleta de colores, hemos hecho uso de la psicología de tipografías, pensado en la accesibilidad para distintos tipos de usuarios y aplicado distintos patrones de interacción para conseguir una aplicación intuitiva, cómoda y cercana al usuario.
+Para la parte funcional hemos detallado las funcionalidades imprescindibles con las que tenía que contar nuestra aplicación. En cuanto al aspecto visual, nos hemos inspirado en los distintos tipos de destinos (tropicales, rurales, urbanos…) para la elección de una paleta de colores, hemos hecho uso de la psicología de tipografías, pensado en la accesibilidad para distintos tipos de usuarios y aplicado distintos patrones de interacción para conseguir una aplicación intuitiva, cómoda y cercana al usuario.
 
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
->>> Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
+Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
 
 Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboard-dise%C3%B1o-visual--logotipo)
 
@@ -115,7 +112,7 @@ Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboa
 ----
 
 
->>> Con la Landing Page queremos que con un vistazo rápido el usuario sepa de qué trata a grandes rasgos nuestra aplicación, informando a su vez qué nos hace diferentes y mejores de nuestros competidores
+Con la Landing Page queremos que con un vistazo rápido el usuario sepa de qué trata a grandes rasgos nuestra aplicación, informando a su vez qué nos hace diferentes y mejores de nuestros competidores
 
 Para acceder a la Landing Page pulse [aquí.](P3/readme.md/#landing-page)
 
@@ -123,14 +120,14 @@ Para acceder a la Landing Page pulse [aquí.](P3/readme.md/#landing-page)
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>>  Como Guidelines hemos hecho uso de las Material Design de Android aplicando algunos de los patrones de diseño vistos en clase.
+Como Guidelines hemos hecho uso de las Material Design de Android aplicando algunos de los patrones de diseño vistos en clase.
 
 Para acceder a las Guidelines pulse [aquí.](P3/readme.md/#guidelines)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Hemos creado un Mockup basándonos en todos los apartados anteriores, así como en la práctica 2. Además, hemos grabado y subido a Youtube una simulación de cómo se vería nuestra aplicación en el móvil.
+Hemos creado un Mockup basándonos en todos los apartados anteriores, así como en la práctica 2. Además, hemos grabado y subido a Youtube una simulación de cómo se vería nuestra aplicación en el móvil.
 
 Para acceder al Mockup pulse [aquí.](P3/readme.md/#mockup-layout-hi-fi)
 
@@ -138,7 +135,7 @@ Para acceder al Mockup pulse [aquí.](P3/readme.md/#mockup-layout-hi-fi)
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
->>> A lo largo de la práctica hemos ido contando la realización de todo el proceso de diseño, pero también hemos realizado un video en el que lo resumimos brevemente.
+A lo largo de la práctica hemos ido contando la realización de todo el proceso de diseño, pero también hemos realizado un video en el que lo resumimos brevemente.
 
 Para acceder al Case Study pulse [aquí.](P3/readme.md/#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
 
