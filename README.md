@@ -148,7 +148,7 @@ Haga click en la miniatura del vídeo para acceder a este:
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-A lo largo de la práctica hemos ido contando la realización de todo el proceso de diseño, pero también hemos realizado un video en el que lo resumimos brevemente, para acceder a éste pulse [aquí](https://www.youtube.com/watch?v=_ayJhUkMq-k).
+A lo largo de la práctica hemos ido contando la historia de la realización de todo el proceso de diseño inspirándonos en el contenido del Case Study de la app de [Muse Map](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b), pero también hemos realizado un vídeo en el que lo resumimos brevemente, para acceder a éste pulse [aquí](https://www.youtube.com/watch?v=_ayJhUkMq-k).
 
 Para acceder al Case Study pulse [aquí.](P3/readme.md/#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
 
