@@ -101,9 +101,10 @@ Ya que tenemos en mente desarrollar una app móvil, realizamos un Mockup de su i
 <img src="MockupHiFi/2.png" width="250" />
 <img src="MockupHiFi/6.png" width="250" />
 <img src="MockupHiFi/3.png" width="250" />
-<img src="MockupHiFi/4.png" width="250" />
 <img src="MockupHiFi/5.png" width="250" />
 <img src="MockupHiFi/1.png" width="250" />
+<img src="MockupHiFi/9.png" width="250" />
+<img src="MockupHiFi/4.png" width="250" />
 <img src="MockupHiFi/7.png" width="250" />
 <img src="MockupHiFi/8.png" width="250" />
 </p>
