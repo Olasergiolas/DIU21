@@ -10,7 +10,7 @@ Lolis
 Descripción: Lolis se trata de una aplicación móvil que busca unificar todas las herramientas que un viajero puede necesitar para organizar su viaje, desde planificación de rutas, hasta reservas de alojamiento, junto con otras funcionalidades como gestión de documentos de viaje, gestión de gastos, etc.
 
 Logotipo: 
-Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+<br><img src="P3/componentesMoodboard/logo.png" width="300" /><br>
 
 Miembros
  * :bust_in_silhouette:   Sergio García Cabrera     :octocat: [@Olasergiolas](https://github.com/Olasergiolas)    
