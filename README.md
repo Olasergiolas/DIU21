@@ -108,6 +108,8 @@ Podéis ver la historia completa del proceso de Case Study para nuestra aplicaci
 
 Para el moodboard buscábamos un diseño minimalista con frescura, para ello nos pusimos en la piel de un viajero preguntándos qué le podría llamar la atención de nuestra aplicación y de qué forma podríamos mostrarnos más cercanos al usuario.
 
+![moodboard](P3/moodboard.png)
+
 Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboard-dise%C3%B1o-visual--logotipo)
 
 
@@ -115,7 +117,9 @@ Para acceder al Moodboard de la aplicación pulse [aquí.](P3/readme.md/#moodboa
 ----
 
 
-Con la Landing Page queremos que con un vistazo rápido el usuario sepa de qué trata a grandes rasgos nuestra aplicación, informando a su vez qué nos hace diferentes y mejores de nuestros competidores
+Con la Landing Page queremos que con un vistazo rápido el usuario sepa de qué trata a grandes rasgos nuestra aplicación, informando a su vez qué nos hace diferentes y mejores de nuestros competidores.
+
+![landing-page](P3/landing-page.png)
 
 Para acceder a la Landing Page pulse [aquí.](P3/readme.md/#landing-page)
 
@@ -132,13 +136,19 @@ Para acceder a las Guidelines pulse [aquí.](P3/readme.md/#guidelines)
 
 Hemos creado un Mockup basándonos en todos los apartados anteriores, así como en la práctica 2. Además, hemos grabado y subido a Youtube una simulación de cómo se vería nuestra aplicación en el móvil.
 
-Para acceder al Mockup pulse [aquí.](P3/readme.md/#mockup-layout-hi-fi)
+<img src="P3/MockupHiFi/2.png" width="250" />
+
+Para acceder al Mockup completo pulse [aquí.](P3/readme.md/#mockup-layout-hi-fi)
+
+### Prueba en un dispositivo real
+Haga click en la miniatura del vídeo para acceder a este:
+<br>[![Prueba del mockup](http://img.youtube.com/vi/SJD40C4ZJo4/0.jpg)](http://www.youtube.com/watch?v=SJD40C4ZJo4 "Prueba de navegación del mockup")<br>
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-A lo largo de la práctica hemos ido contando la realización de todo el proceso de diseño, pero también hemos realizado un video en el que lo resumimos brevemente.
+A lo largo de la práctica hemos ido contando la realización de todo el proceso de diseño, pero también hemos realizado un video en el que lo resumimos brevemente, para acceder a éste pulse [aquí](https://www.youtube.com/watch?v=_ayJhUkMq-k).
 
 Para acceder al Case Study pulse [aquí.](P3/readme.md/#documentaci%C3%B3n-publicaci%C3%B3n-del-case-study)
 
