@@ -14,7 +14,7 @@ El 52.4% escogió Lolis mientras que el 47.6% optó por EcoTravel.
 
 Con este documento se evaluará la usabilidad cuantificando la accesibilidad, identidad, navegación y contenido de las dos aplicaciones mediante un A/B testing y un cuestionario SUS, y nos ayudará a conocer qué aspectos son mejorables en ambas en cuanto a complejidad y funcionalidad.
 
-##Metodología
+## Metodología
 La encuesta en Google Forms creada por los profesores fue modificada para que el usuario participante categorizara su rol de forma similar a como se haría con los dados (actividad y emociones). Posteriormente se le da a elegir entre los dos prototipos para ser probados y se le pregunta su experiencia en Internet (‘Baja’, ‘Intermedia’ o ‘Avanzada’), así como las plataformas tecnológicas que más utiliza. 
 
 Antes de realizar el test SUS, se le muestra al participante un vídeo con el prototipo correspondiente realizado en Adobe Xd para que este obtenga una visión general de la aplicación y a continuación, se le muestra el prototipo interactivo y se le pide que realice una serie de tareas.
@@ -159,7 +159,7 @@ Estas son las tareas que se ha pedido realizar a los participantes del estudio:
 
 ### Cuestionario SUS
 
-|    | PREGUNTAS                                                                                |   6  |   7  |   8  |   9  | 10 |
+|    | PREGUNTAS                                                                                |   1  |   2  |   3  |   4  | 5 |
 |----|------------------------------------------------------------------------------------------|:----:|:----:|:----:|:----:|:--:|
 |  1 | Creo que me gustará visitar con frecuencia este website                                  |   3  |   3  |   2  |   3  |  4 |
 |  2 | Encontré el website innecesariamente complejo                                            |   4  |   2  |   1  |   2  |  2 |
