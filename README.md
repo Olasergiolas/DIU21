@@ -158,44 +158,71 @@ Para acceder al Case Study pulse [aquí.](P3/readme.md/#documentaci%C3%B3n-publi
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
+![reencuentro_logo](https://raw.githubusercontent.com/JesusGonzalezA/DIU21/master/P3/Images/Logo.png)<br>
+EcoTravel es una aplicación de gestión y planificación de viajes. Busca ofrecer una alternativa a aquellos viajeros que deseen estar más en contacto con la naturaleza, centrándose en ofrecer una experiencia de turismo rural y tradicional, facilitando al usuario la organización de este tipo de experiencias.
+Podemos encontrar el repositorio de su proyecto [aquí](https://github.com/JesusGonzalezA/DIU21).
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Las secciones principales de su aplicación son:
+- Home: Página principal. Se muestran los lugares guardados por el usuario y los destinos destacados en la aplicación.
+- Buscar: Pantalla de búsqueda. Permite buscar distintos destinos turísticos.
+- Añadir: Pantalla para crear una nueva experiencia.
+- Ajustes: Pantalla de configuración de la aplicación.
+- Perfil:    Información del usuario actual.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
-
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+Para este práctica nos hemos ayudado de 10 personas reales que han accedido a participar en este estudio mediante la realización de una encuesta anónima en Google Forms. Estas personas son tanto conocidos nuestros como desconocidos de internet que realizaron el formulario tras publicarlo en RRSS.
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| #id. usuario | Sexo/edad      | Ocupación   | Rol *Actividad a la que se dedica más tiempo *Estado de ánimo | Experiencia internet | Plataforma                          | Prototipo elegido | SUS score |
+|--------------|----------------|-------------|---------------------------------------------------------------|----------------------|-------------------------------------|-------------------|-----------|
+| 1            | Hombre (15-30) | Estudiante  | ·Ejercicio  ·Feliz                                            | Intermedio           | Windows,Mac/Linux, Android          | Lolis             | A (80)    |
+| 2            | Mujer (15-30)  | Estudiante  | ·Procrastinar ·Feliz                                          | Avanzado             | Windows, Mac/Linux, Android, Tablet | Lolis             | A (80)    |
+| 3            | Hombre (45-60) | Pensionista | ·Procrastinar ·Enfadado                                       | Bajo                 | Windows,Android                     | Lolis             | F (40)    |
+| 4            | Mujer (15-30)  | Estudiante  | ·Trabajar ·Disgustado                                         | Intermedio           | Windows/IOS                         | Lolis             | A (90)    |
+| 5            | Mujer (15-30)  | Ninguna     | ·Fotografía ·Disgustado                                       | Intermedio           | Windows/Android                     | Lolis             | F (25)    |
+| 6 | Hombre (30-45) | Auxiliar    | ·Trabajar ·Feliz      | Avanzado   | Windows,Android         | EcoTravel | F (42.5) |
+| 7 | Hombre (15-30) | Estudiante  | ·Trabajar ·Feliz      | Avanzado   | Windows/ Android        | Ecotravel | B (77,5) |
+| 8 | Hombre (15-30) | Au pair     | ·Trabajar ·Triste     | Avanzado   | Windows,Android,Tablet  | EcoTravel | C (67,5) |
+| 9 | Hombre (30-45) | Trabajando  | ·Procrastinar ·Triste | Avanzado   | Windows/Mac/Linux/IOS   | Ecotravel | B (72,5) |
+| 10 | Mujer (45-60)  | Funcionaria | ·Trabajar ·Feliz      | Intermedio | Windows/Android/ Tablet | Ecotravel | B (75)   |
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
+Estos son los resultados del cuestionario SUS aplicado a nuestros participantes para el prototipo de "El Reencuentro":
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+|    | PREGUNTAS                                                                                |   1  |   2  |   3  |   4  | 5 |
+|----|------------------------------------------------------------------------------------------|:----:|:----:|:----:|:----:|:--:|
+|  1 | Creo que me gustará visitar con frecuencia este website                                  |   3  |   3  |   2  |   3  |  4 |
+|  2 | Encontré el website innecesariamente complejo                                            |   4  |   2  |   1  |   2  |  2 |
+|  3 | Pensé que era fácil utilizar este website                                                |   3  |   4  |   4  |   4  |  5 |
+|  4 | Creo que necesitaría del apoyo de un experto para recorrer el website                    |   4  |   2  |   1  |   2  |  1 |
+|  5 | Encontré las funciones del website bastante bien integradas                              |   4  |   4  |   3  |   3  |  3 |
+|  6 | Pensé que había demasiada inconsistencia en el website                                   |   3  |   2  |   2  |   3  |  3 |
+|  7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |   3  |   5  |   4  |   5  |  4 |
+|  8 | Encontré el website muy grande al recorrerlo                                             |   4  |   1  |   3  |   3  |  2 |
+|  9 | Me sentí muy confiado en el manejo del website                                           |   2  |   4  |   2  |   5  |  3 |
+| 10 | Necesito aprender muchas cosas antes de manejarme en el website                          |   3  |   2  |   1  |   1  |  1 |
+|    |                                                             Valoración final (SUS Score) | 42,5 | 77.5 | 67.5 | 72.5 | 75 |
 
+Como podemos observar, "El Reencuentro" ha obtenido por lo general puntuaciones aceptables y bastante consistentes, aunque sorprende la puntuación obtenida por el usuario 1.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Hemos dividido el Usability Report en dos PDF con el objetivo de separar los resultados obtenidos en el cuestionario SUS y la realización de las tareas por parte de los participantes.
 
+Estos documentos pueden ser encontrados aquí:
+- [Usability Report asignado: "El Reencuentro"](P4/P4_UsabReport_Reencuentro_doneby_Aguacate_P4.pdf)
+- [Usability Report propio: "Lolis"](P4/DIU1_Aguacate_P4.pdf)
 
+En conclusión, podemos observar que las puntuaciones SUS obtenidas para la app de Ecotravel son en general más consistentes que las de Lolis. Buscando un posible motivo para esto, analizamos los perfiles de los participantes 3 y 5 para buscar similitudes que nos puedan aportar algo de información sobre la causa de sus discordantes resultados de los cuestionarios SUS, pero no encontramos nada relevante. Esto nos hace pensar que se puede deber al pequeño número de participantes del cuestionario y que con un mayor número de participantes, las puntuaciones serían más regulares. Por otro lado, valorando el resto de cuestionarios SUS y las tasas de éxito en las tareas encargadas, podemos ver como ambos prototipos consiguen unos muy buenos resultados.
 
->>> Valoración personal 
-
+Puede acceder a la conclusión completa [aquí](P4/readme.md/#conclusiones).
 
 ## Paso 5. Evaluación de Accesibilidad  
 
