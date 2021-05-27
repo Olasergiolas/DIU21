@@ -189,4 +189,9 @@ Otro punto fuerte en términos de accesibilidad es el contraste principal Verde 
 
 Pasando a la app de Lolis, los participantes del cuestionario han podido identificar fácilmente las secciones de la app durante el uso del prototipo en la realización de las tareas aunque es necesario mencionar que el participante 3 ha mostrado dificultad para leer algunos de los botones de la aplicación que utilizan un color de texto gris sobre un fondo blanco. La causa de esto puede deberse principalmente al bajo contraste de los colores mencionados.
 
+<p align="center">
+<img src="icono-lolis.png">
+<img src="icono-lolis2.png">
+</p>
+
 
