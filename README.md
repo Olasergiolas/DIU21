@@ -208,7 +208,8 @@ Estos son los resultados del cuestionario SUS aplicado a nuestros participantes 
 |    |                                                             Valoración final (SUS Score) | 42,5 | 77.5 | 67.5 | 72.5 | 75 |
 
 Como podemos observar, "El Reencuentro" ha obtenido por lo general puntuaciones aceptables y bastante consistentes, aunque sorprende la puntuación obtenida por el usuario 1.
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+Para acceder al reporte completo pulse [aquí](P4)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
