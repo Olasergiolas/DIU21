@@ -40,7 +40,9 @@ A las preguntas pares se calcula 5 menos la puntuación dada por el usuario.
 Tras aplicar esos cálculos a cada pregunta, se suman los valores obtenidos por cada usuario y se multiplican los resultados por 2.5.
 
 Para las calificaciones SUS se ha utilizado la clasificación de “Grade” que aparece en esta imagen:
-![sus-scale-adj](sus-scale-adj.jpg)
+<p align="center">
+<img src="sus-scale-adj.jpg">
+ </p>
 
 ## Caso 1: Lolis
 
