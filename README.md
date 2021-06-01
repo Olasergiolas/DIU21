@@ -227,8 +227,12 @@ Puede acceder a la conclusión completa [aquí](P4/readme.md/#conclusiones).
 
 ## Conclusión final / Valoración de las prácticas
 
+El proceso de desarrollo de diseño que se ha ido realizando durante las prácticas de esta asignatura nos ha parecido muy completo y útil para nuestro futuro como ingenieros software. A lo largo del cuatrimestre hemos ampliado nuestra habilidad de idear productos que resulten útiles y cómodos de utilizar para un usuario a través de la aplicación de los test A/B, además del conocimiento obtenido para realizar unos diseños consistentes gracias a la utilización de los UX Case Study.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Valoramos que los conocimientos adquiridos en la práctica 3 serán los que más utilizaremos en el futuro, siendo esta misma práctica la que más hemos disfrutado haciendo.
+
+Damos gracias al profesorado por su labor docente y nos despedimos de esta asignatura. [Hasta luego!](https://www.youtube.com/watch?v=rYAJB7Ddbi0)
+ 
 
 
 
