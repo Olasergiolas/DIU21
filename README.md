@@ -231,7 +231,9 @@ El proceso de desarrollo de diseño que se ha ido realizando durante las prácti
 
 Valoramos que los conocimientos adquiridos en la práctica 3 serán los que más utilizaremos en el futuro, siendo esta misma práctica la que más hemos disfrutado haciendo.
 
-Damos gracias al profesorado por su labor docente y nos despedimos de esta asignatura. [Hasta luego!](https://www.youtube.com/watch?v=rYAJB7Ddbi0)
+Damos gracias al profesorado por su labor docente y nos despedimos de esta asignatura. 
+
+[Hasta luego!](https://www.youtube.com/watch?v=rYAJB7Ddbi0)
  
 
 
